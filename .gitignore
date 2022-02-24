@@ -7,3 +7,4 @@ __pycache__
 **/recommended_trades.xlsx
 **/momentum_strategy.xlsx
 venv/
+http_cache.sqlite
