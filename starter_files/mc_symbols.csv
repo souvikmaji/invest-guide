@@ -1,1031 +1,357 @@
-Name,Symbol,URL
-3M India,MI42,/india/stockpricequote/diversified/3mindia/MI42
-5paisa Capita,C98,/india/stockpricequote/miscellaneous/5paisacapital/C98
-63 Moons Tech,FT02,/india/stockpricequote/computerssoftware/63moonstechnologies/FT02
-Aarti Drugs,AD,/india/stockpricequote/pharmaceuticals/aartidrugs/AD
-Aarti Ind,AI45,/india/stockpricequote/chemicals/aartiindustries/AI45
-Aarti Surfactan,ASL08,/india/stockpricequote/chemicals/aartisurfactantslimited/ASL08
-AAVAS Financier,AF17,/india/stockpricequote/financegeneral/aavasfinanciers/AF17
-AB Capital,ABC9,/india/stockpricequote/financeinvestments/adityabirlacapital/ABC9
-AB Money,ABM01,/india/stockpricequote/financegeneral/adityabirlamoney/ABM01
-ABB India,ABB,/india/stockpricequote/infrastructuregeneral/abbindia/ABB
-Abbott India,AI51,/india/stockpricequote/pharmaceuticals/abbottindia/AI51
-ACC,ACC06,/india/stockpricequote/cementmajor/acc/ACC06
-Accelya Kale,KAL,/india/stockpricequote/computerssoftwaremediumsmall/accelyakalesolutions/KAL
-Acrysil India,AI04,/india/stockpricequote/plasticsmouldedarticlesfurnitures/acrysilindia/AI04
-Action Const,ACE3,/india/stockpricequote/engineeringheavy/actionconstructionequipment/ACE3
-Adani Enterpris,AE13,/india/stockpricequote/trading/adanienterprises/AE13
-Adani Ports,MPS,/india/stockpricequote/infrastructuregeneral/adaniportsspecialeconomiczone/MPS
-Adani Power,AP11,/india/stockpricequote/powergenerationdistribution/adanipower/AP11
-Adani Total Gas,ADG01,/india/stockpricequote/gasdistribution/adanitotalgas/ADG01
-Adani Trans,AT22,/india/stockpricequote/powertransmissionequipment/adanitransmission/AT22
-Aditya Birla F,PFR,/india/stockpricequote/retail/adityabirlafashionretail/PFR
-Ador Welding,AW01,/india/stockpricequote/electrodesgraphite/adorwelding/AW01
-Advanced Enzyme,AET,/india/stockpricequote/pharmaceuticals/advancedenzymetechnologies/AET
-Aegis Logistics,AL9,/india/stockpricequote/transportlogistics/aegislogistics/AL9
-AFL,ARVIN54248,/india/stockpricequote/miscellaneous/arvindfashionslimited/ARVIN54248
-Agro Tech Foods,ATF,/india/stockpricequote/edibleoilssolventextraction/agrotechfoods/ATF
-Ahluwalia,ACI12,/india/stockpricequote/constructioncontractingcivil/ahluwaliacontractsindia/ACI12
-AIA Engineering,AIE01,/india/stockpricequote/castingsforgings/aiaengineering/AIE01
-Ajanta Pharma,AP22,/india/stockpricequote/pharmaceuticals/ajantapharma/AP22
-Ajmera Realty,ARI03,/india/stockpricequote/constructioncontractingrealestate/ajmerarealtyinfraindia/ARI03
-Akzo Nobel,ICI,/india/stockpricequote/paintsvarnishes/akzonobelindia/ICI
-Alankit,EGJ,/india/stockpricequote/miscellaneous/alankit/EGJ
-Albert David,AD01,/india/stockpricequote/pharmaceuticals/albertdavid/AD01
-Alembic,A08,/india/stockpricequote/pharmaceuticals/alembic/A08
-Alembic Pharma,AP35,/india/stockpricequote/pharmaceuticals/alembicpharmaceuticals/AP35
-Alicon Castallo,EC06,/india/stockpricequote/castingsforgings/aliconcastalloy/EC06
-Alkem Lab,AL05,/india/stockpricequote/pharmaceuticals/alkemlaboratories/AL05
-Alkyl Amines,AAC,/india/stockpricequote/chemicals/alkylamineschemicals/AAC
-Allcargo,AGL02,/india/stockpricequote/transportlogistics/allcargologistics/AGL02
-ALLSEC Tech,ALL01,/india/stockpricequote/computerssoftwaremediumsmall/allsectechnologies/ALL01
-Alok Industries,AI54,/india/stockpricequote/textilesweaving/alokindustries/AI54
-Amara Raja Batt,ARB,/india/stockpricequote/autoancillaries/amararajabatteries/ARB
-Amber Enterpris,AEI01,/india/stockpricequote/miscellaneous/amberenterprisesindialimited/AEI01
-Ambika Cotton,ACM04,/india/stockpricequote/textilesspinningcottonblended/ambikacottonmills/ACM04
-Ambuja Cements,AC18,/india/stockpricequote/cementmajor/ambujacements/AC18
-Anant Raj,ARI,/india/stockpricequote/constructionrealestate/anantraj/ARI
-Andhra Paper,APP,/india/stockpricequote/paper/andhrapaperlimited/APP
-Andhra Petro,AP09,/india/stockpricequote/chemicals/andhrapetro/AP09
-Andrew Yule,AYC,/india/stockpricequote/trading/andrewyulecompany/AYC
-Anjani Cement,APC,/india/stockpricequote/cementmini/anjaniportlandcement/APC
-Antony Waste,AWH,/india/stockpricequote/miscellaneous/antonywastehandlingcell/AWH
-Anuh Pharma,AP10,/india/stockpricequote/pharmaceuticals/anuhpharma/AP10
-Anupam Rasayan,ARI02,/india/stockpricequote/specialitychemicals/anupamrasayanindia/ARI02
-Apar Ind,AI40,/india/stockpricequote/electricequipment/aparindustries/AI40
-Apcotex Ind,AI58,/india/stockpricequote/rubber/apcotexindustries/AI58
-Apex Frozen,AFF,/india/stockpricequote/foodprocessing/apexfrozenfoods/AFF
-APL Apollo,BT09,/india/stockpricequote/steeltubespipes/aplapollotubes/BT09
-Apollo Hospital,AHE,/india/stockpricequote/hospitalsmedicalservices/apollohospitalsenterprises/AHE
-Apollo Pipes,ALF02,/india/stockpricequote/plastics/apollopipes/ALF02
-Apollo Tricoat ,PIF03,/india/stockpricequote/trading/apollotricoattubes/PIF03
-Apollo Tyres,AT14,/india/stockpricequote/tyres/apollotyres/AT14
-Aptech,A11,/india/stockpricequote/computerssoftwaretraining/aptech/A11
-Arman Financial,AFS04,/india/stockpricequote/financeleasinghirepurchase/armanfinancialservices/AFS04
-Arvind,A18,/india/stockpricequote/textilesdenim/arvind/A18
-Asahi India,AIG01,/india/stockpricequote/glassglassproducts/asahiindiaglass/AIG01
-Asahi Songwon,ASC01,/india/stockpricequote/dyespigments/asahisongwoncolors/ASC01
-Ashapura Mine,AM07,/india/stockpricequote/miningminerals/ashapuraminechem/AM07
-Ashiana Housing,AH07,/india/stockpricequote/constructioncontractinghousing/ashianahousing/AH07
-Ashok Leyland,AL,/india/stockpricequote/autolcvshcvs/ashokleyland/AL
-Ashoka Buildcon,AB,/india/stockpricequote/constructioncontractingcivil/ashokabuildcon/AB
-Asian Energy,AOS,/india/stockpricequote/oildrillingandexploration/asianenergyservices/AOS
-Asian Granito,AGI04,/india/stockpricequote/ceramicsgranite/asiangranitoindia/AGI04
-Asian Paints,AP31,/india/stockpricequote/paintsvarnishes/asianpaints/AP31
-Assoc Alcohol,AAB,/india/stockpricequote/breweriesdistilleries/associatedalcoholbreweries/AAB
-Astec Life,AL13,/india/stockpricequote/pharmaceuticals/asteclifesciences/AL13
-Aster DM Health,ADH,/india/stockpricequote/diversified/asterdmhealthcareltd/ADH
-Astra Microwave,AMP01,/india/stockpricequote/telecommunicationsequipment/astramicrowaveproducts/AMP01
-Astral Ltd,APT02,/india/stockpricequote/plastics/astrallimited/APT02
-AstraZeneca,AZP,/india/stockpricequote/pharmaceuticals/astrazenecapharma/AZP
-Atul,A06,/india/stockpricequote/chemicals/atul/A06
-Atul Auto,AA08,/india/stockpricequote/auto23wheelers/atulauto/AA08
-AU Small Financ,ASF02,/india/stockpricequote/banksprivatesector/ausmallfinancebank/ASF02
-Aurionpro Solut,PS12,/india/stockpricequote/computerssoftwaremediumsmall/aurionprosolutions/PS12
-Aurobindo Pharm,AP,/india/stockpricequote/pharmaceuticals/aurobindopharma/AP
-Aurum Proptech,M19,/india/stockpricequote/computerssoftwaremediumsmall/aurumproptech/M19
-Automotive Axle,AA06,/india/stockpricequote/autoancillaries/automotiveaxles/AA06
-Avadh Sugar ,ASE03,/india/stockpricequote/sugar/avadhsugarenergy/ASE03
-Avanti Feeds,AF21,/india/stockpricequote/aquaculture/avantifeeds/AF21
-Avenue Supermar,AS19,/india/stockpricequote/retail/avenuesupermarts/AS19
-AVT Natural,AVT02,/india/stockpricequote/edibleoilssolventextraction/avtnaturalproducts/AVT02
-Axis Bank,AB16,/india/stockpricequote/banksprivatesector/axisbank/AB16
-Axtel Ind,AI62,/india/stockpricequote/engineering/axtelindustries/AI62
-Bajaj Auto,BA10,/india/stockpricequote/auto23wheelers/bajajauto/BA10
-Bajaj Consumer ,BC02,/india/stockpricequote/personalcare/bajajconsumercare/BC02
-Bajaj Electric,BE,/india/stockpricequote/domesticappliances/bajajelectricals/BE
-Bajaj Finance,BAF,/india/stockpricequote/financeleasinghirepurchase/bajajfinance/BAF
-Bajaj Finserv,BF04,/india/stockpricequote/financeinvestments/bajajfinserv/BF04
-Bajaj Health,BHL,/india/stockpricequote/hospitalsmedicalservices/bajajhealthcare/BHL
-Bajaj Hindustha,BH06,/india/stockpricequote/sugar/bajajhindusthansugar/BH06
-Bajaj Holdings,BHI,/india/stockpricequote/financeinvestments/bajajholdingsinvestment/BHI
-Balaji Amines,BA05,/india/stockpricequote/chemicals/balajiamines/BA05
-Balaji Telefilm,BT06,/india/stockpricequote/mediaentertainment/balajitelefilms/BT06
-Balkrishna Ind,BI03,/india/stockpricequote/tyres/balkrishnaindustries/BI03
-Balmer Invest,BLI01,/india/stockpricequote/financeinvestments/balmerlawrieinvestment/BLI01
-Balmer Lawrie,BLC,/india/stockpricequote/diversified/balmerlawriecompany/BLC
-Balrampur Chini,BCM,/india/stockpricequote/sugar/balrampurchinimills/BCM
-Banco Products,BPI,/india/stockpricequote/autoancillaries/bancoproductsindia/BPI
-Bandhan Bank,BB09,/india/stockpricequote/banksprivatesector/bandhanbank/BB09
-Bank of Baroda,BOB,/india/stockpricequote/bankspublicsector/bankofbaroda/BOB
-Bank of India,BOI,/india/stockpricequote/bankspublicsector/bankofindia/BOI
-Bank of Mah,BM05,/india/stockpricequote/bankspublicsector/bankmaharashtra/BM05
-Bannariamman,BS07,/india/stockpricequote/sugar/bannariammansugars/BS07
-BASF,BAS,/india/stockpricequote/chemicals/basfindia/BAS
-Bata India,BI01,/india/stockpricequote/leatherproducts/bataindia/BI01
-Bayer CropScien,BC12,/india/stockpricequote/pesticidesagrochemicals/bayercropscience/BC12
-BCL Industries,BC06,/india/stockpricequote/vanaspatioils/bclindustries/BC06
-BEML,BEM03,/india/stockpricequote/infrastructuregeneral/beml/BEM03
-Berger Paints,BPI02,/india/stockpricequote/paintsvarnishes/bergerpaintsindia/BPI02
-Best Agrolife,SCL11,/india/stockpricequote/pesticidesagrochemicals/bestagrolife/SCL11
-BF Investment,BFI,/india/stockpricequote/financeinvestments/bfinvestment/BFI
-BF Utilities,BFU,/india/stockpricequote/powergenerationdistribution/bfutilities/BFU
-BGR Energy,BES,/india/stockpricequote/infrastructuregeneral/bgrenergysystems/BES
-Bhageria Indu,BD02,/india/stockpricequote/dyespigments/bhageriaindustries/BD02
-Bhagiradh Chem,BCI01,/india/stockpricequote/pesticidesagrochemicals/bhagiradhchemicalsindustries/BCI01
-Bhansali Eng,BEP,/india/stockpricequote/petrochemicals/bhansaliengineeringpolymers/BEP
-Bharat Bijlee,BB,/india/stockpricequote/electricequipment/bharatbijlee/BB
-Bharat Dynamics,BDL01,/india/stockpricequote/miscellaneous/bharatdynamicsltd/BDL01
-Bharat Elec,BE03,/india/stockpricequote/electricals/bharatelectronics/BE03
-Bharat Forge,BF03,/india/stockpricequote/castingsforgings/bharatforge/BF03
-Bharat Road Net,BRN,/india/stockpricequote/infrastructuregeneral/bharatroadnetwork/BRN
-Bharti Airtel,BA08,/india/stockpricequote/telecommunicationsservice/bhartiairtel/BA08
-BHEL,BHE,/india/stockpricequote/infrastructuregeneral/bharatheavyelectricals/BHE
-Biocon,BL03,/india/stockpricequote/pharmaceuticals/biocon/BL03
-Birla Corp,BC07,/india/stockpricequote/cementmajor/birlacorporation/BC07
-Birlasoft,KPI02,/india/stockpricequote/computerssoftwaremediumsmall/birlasoft/KPI02
-BLACK BOX,AGC,/india/stockpricequote/computerssoftware/blackbox/AGC
-Black Rose Ind,BRI01,/india/stockpricequote/chemicals/blackroseindustries/BRI01
-Bliss GVS,BGV,/india/stockpricequote/pharmaceuticals/blissgvspharma/BGV
-BLS Internation,BLS,/india/stockpricequote/miscellaneous/blsinternationalservices/BLS
-Blue Dart,BDE,/india/stockpricequote/couriers/bluedartexpress/BDE
-Blue Star,BS,/india/stockpricequote/consumergoodswhitegoods/bluestar/BS
-Bodal Chemicals,BC15,/india/stockpricequote/dyespigments/bodalchemicals/BC15
-Bombay Burmah,BBT,/india/stockpricequote/plantationsteacoffee/bombayburmahtradingcorporation/BBT
-Bombay Dyeing,BDM,/india/stockpricequote/textilesprocessing/bombaydyeingmanufacturingcompany/BDM
-Borosil,BGW,/india/stockpricequote/glassglassproducts/borosilrenewablesltd/BGW
-Bosch,B05,/india/stockpricequote/autoancillaries/bosch/B05
-BPCL,BPC,/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC
-Brigade Ent,BE08,/india/stockpricequote/constructioncontractingrealestate/brigadeenterprises/BE08
-Brightcom Group,LGS,/india/stockpricequote/computerssoftwaremediumsmall/brightcomgroup/LGS
-Britannia,BI,/india/stockpricequote/foodprocessing/britanniaindustries/BI
-BTL,BIRLA54293,/india/stockpricequote/miscellaneous/birlatyreslimited/BIRLA54293
-Butterfly,GA,/india/stockpricequote/domesticappliances/butterflygandhimathiappliances/GA
-Cadila Health,CHC,/india/stockpricequote/pharmaceuticals/cadilahealthcare/CHC
-Camlin Fine,CFC03,/india/stockpricequote/chemicals/camlinfinesciences/CFC03
-Can Fin Homes,CFH,/india/stockpricequote/financehousing/canfinhomes/CFH
-Canara Bank,CB06,/india/stockpricequote/bankspublicsector/canarabank/CB06
-Cantabil Retail,CRI01,/india/stockpricequote/retail/cantabilretailindia/CRI01
-Capacite Infra,CI19,/india/stockpricequote/constructionrealestate/capaciteinfraprojects/CI19
-Caplin Labs,CPL,/india/stockpricequote/pharmaceuticals/caplinpointlaboratories/CPL
-Capri Global,MMF05,/india/stockpricequote/financegeneral/capriglobalcapital/MMF05
-Carborundum,CU,/india/stockpricequote/abrasives/carborundumuniversal/CU
-CARE Ratings,CAR,/india/stockpricequote/miscellaneous/careratings/CAR
-Career Point,CPI05,/india/stockpricequote/computerssoftwaretraining/careerpoint/CPI05
-Castrol,CI01,/india/stockpricequote/lubricants/castrolindia/CI01
-CCL Products,CC10,/india/stockpricequote/plantationsteacoffee/cclproductsindia/CC10
-Ceat,C07,/india/stockpricequote/tyres/ceat/C07
-Central Bank,CBO01,/india/stockpricequote/bankspublicsector/centralbankindia/CBO01
-Centrum Capital,CF09,/india/stockpricequote/financegeneral/centrumcapital/CF09
-Centum Electron,CE10,/india/stockpricequote/electricals/centumelectronics/CE10
-Century,CTI,/india/stockpricequote/diversified/centurytextilesindustries/CTI
-Century Enka,CE,/india/stockpricequote/textilesmanmade/centuryenka/CE
-CenturyPlyboard,CP9,/india/stockpricequote/miscellaneous/centuryplyboards/CP9
-Cera Sanitary,CS18,/india/stockpricequote/ceramicsgranite/cerasanitaryware/CS18
-Cerebra Int,CIT,/india/stockpricequote/computershardware/cerebraintegratedtechnologies/CIT
-CESC,CES,/india/stockpricequote/powergenerationdistribution/cesc/CES
-CG Consumer,CGC01,/india/stockpricequote/electricals/cromptongreavesconsumerelectrical/CGC01
-Chalet Hotels,CH03,/india/stockpricequote/hotels/chalethotels/CH03
-Chaman Lal Seti,CLS,/india/stockpricequote/foodprocessing/chamanlalsetiaexports/CLS
-Chambal Fert,CFC,/india/stockpricequote/fertilisers/chambalfertiliserschemicals/CFC
-Chemcon Special,CSC,/india/stockpricequote/specialitychemicals/chemconspecialitychemicals/CSC
-Chennai Petro,CPC02,/india/stockpricequote/refineries/chennaipetroleumcorporation/CPC02
-Chola Fin Hold,TII,/india/stockpricequote/miscellaneous/cholamandalamfinancialholdings/TII
-Chola Invest.,CDB,/india/stockpricequote/financeleasinghirepurchase/cholamandalaminvestmentfinancecompany/CDB
-Cigniti Tech,CI42,/india/stockpricequote/computerssoftwaremediumsmall/cignititechnologies/CI42
-Cipla,C,/india/stockpricequote/pharmaceuticals/cipla/C
-City Union Bank,CUB,/india/stockpricequote/banksprivatesector/cityunionbank/CUB
-Clariant Chem,CCI08,/india/stockpricequote/dyespigments/clariantchemicalsindia/CCI08
-Coal India,CI11,/india/stockpricequote/miningminerals/coalindia/CI11
-Cochin Shipyard,CS,/india/stockpricequote/miscellaneous/cochinshipyard/CS
-COFORGE LTD.,NII02,/india/stockpricequote/computerssoftware/coforgelimited/NII02
-Colgate,CPI,/india/stockpricequote/personalcare/colgatepalmoliveindia/CPI
-ConfidencePetro,CP10,/india/stockpricequote/miscellaneous/confidencepetroleum/CP10
-Container Corp,CCI,/india/stockpricequote/transportlogistics/containercorporationindia/CCI
-Control Print,CP11,/india/stockpricequote/trading/controlprint/CP11
-Coromandel Int,CI45,/india/stockpricequote/fertilisers/coromandelinternational/CI45
-Cosmo Films,CF08,/india/stockpricequote/plastics/cosmofilms/CF08
-CRISIL,CRI,/india/stockpricequote/miscellaneous/crisil/CRI
-Cummins,CI02,/india/stockpricequote/engines/cumminsindia/CI02
-Cupid,CR02,/india/stockpricequote/miscellaneous/cupid/CR02
-Cybertech,CSS,/india/stockpricequote/computerssoftwaremediumsmall/cybertechsystemssoftware/CSS
-Cyient,IE07,/india/stockpricequote/computerssoftware/cyient/IE07
-D-Link India,DLI01,/india/stockpricequote/computershardware/dlinkindia/DLI01
-Dabur India,DI,/india/stockpricequote/personalcare/daburindia/DI
-Dalmia Bharat,OCL,/india/stockpricequote/cementmajor/dalmiabharat/OCL
-Dalmia Sugar,DCB,/india/stockpricequote/sugar/dalmiabharatsugarindustries/DCB
-Datamatics Glob,DGS01,/india/stockpricequote/computerssoftwaremediumsmall/datamaticsglobalservices/DGS01
-DB Corp,C13,/india/stockpricequote/mediaentertainment/dbcorp/C13
-DB Realty,DR,/india/stockpricequote/constructioncontractingrealestate/dbrealty/DR
-DCB Bank,DCB01,/india/stockpricequote/banksprivatesector/dcbbank/DCB01
-DCM Shriram,DCM02,/india/stockpricequote/diversified/dcmshriram/DCM02
-DCM Shriram Ind,DCM03,/india/stockpricequote/sugar/dcmshriramindustries/DCM03
-DCW,DCW,/india/stockpricequote/petrochemicals/dcw/DCW
-Deccan Cements,DC,/india/stockpricequote/cementmini/deccancements/DC
-Deepak Fert,DFP,/india/stockpricequote/fertilisers/deepakfertilizerspetrochemicalscoprn/DFP
-Deepak Nitrite,DN,/india/stockpricequote/chemicals/deepaknitrite/DN
-Delta Corp,DC11,/india/stockpricequote/constructioncontractingrealestate/deltacorp/DC11
-Den Networks,DN02,/india/stockpricequote/mediaentertainment/dennetworks/DN02
-DFM Foods,DFM,/india/stockpricequote/foodprocessing/dfmfoods/DFM
-Dhampur Sugar,DSM,/india/stockpricequote/sugar/dhampursugarmills/DSM
-Dhanlaxmi Bank,DB01,/india/stockpricequote/banksprivatesector/dhanlaxmibank/DB01
-Dhanuka Agritec,DA01,/india/stockpricequote/pesticidesagrochemicals/dhanukaagritech/DA01
-Dhanvarsha Finv,DF10,/india/stockpricequote/miscellaneous/dhanvarshafinvest/DF10
-Dharamsi Morarj,DMC01,/india/stockpricequote/chemicals/thedharamsimorarjichemicalcompany/DMC01
-Diamines Chem,DC04,/india/stockpricequote/petrochemicals/diamineschemicals/DC04
-DIC India,DIC02,/india/stockpricequote/printingstationery/dicindia/DIC02
-Dilip Buildcon,DB04,/india/stockpricequote/constructioncontractingcivil/dilipbuildcon/DB04
-Dish TV,DTV,/india/stockpricequote/mediaentertainment/dishtvindia/DTV
-Dishman Carboge,DCA,/india/stockpricequote/miscellaneous/dishmancarbogenamcis/DCA
-Divis Labs,DL03,/india/stockpricequote/pharmaceuticals/divislaboratories/DL03
-Dixon Technolog,DT07,/india/stockpricequote/electricals/dixontechnologies/DT07
-DLF,D04,/india/stockpricequote/constructioncontractingrealestate/dlf/D04
-Dolat Algotech,DI11,/india/stockpricequote/financestockbroking/dolatalgotech/DI11
-Dollar Ind,DI29,/india/stockpricequote/textilesreadymadeapparels/dollarindustries/DI29
-Dr Lal PathLab,DLP01,/india/stockpricequote/pharmaceuticals/drlalpathlabs/DLP01
-Dr Reddys Labs,DRL,/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL
-Dredging Corp,DCI,/india/stockpricequote/miscellaneous/dredgingcorporationindia/DCI
-Dwarikesh Sugar,DSI01,/india/stockpricequote/sugar/dwarikeshsugarindustries/DSI01
-Dynamatic Tech,DT05,/india/stockpricequote/pumps/dynamatictechnologies/DT05
-Dynemic Product,DP12,/india/stockpricequote/dyespigments/dynemicproducts/DP12
-eClerx Services,eS06,/india/stockpricequote/computerssoftwaremediumsmall/eclerxservices/eS06
-Edelweiss,EC01,/india/stockpricequote/financegeneral/edelweissfinancialservices/EC01
-Eicher Motors,EM,/india/stockpricequote/autolcvshcvs/eichermotors/EM
-EID Parry,EID,/india/stockpricequote/sugar/eidparryindia/EID
-EIH,EIH,/india/stockpricequote/hotels/eih/EIH
-EIH Assoc Hotel,EIH01,/india/stockpricequote/hotels/eihassociatedhotels/EIH01
-Elantas Beck,EBI,/india/stockpricequote/chemicals/elantasbeckindia/EBI
-Elecon Eng,EEC,/india/stockpricequote/engineeringheavy/eleconengineeringcompany/EEC
-Electrosteel,EC02,/india/stockpricequote/castingsforgings/electrosteelcastings/EC02
-Elgi Equipments,EE01,/india/stockpricequote/compressors/elgiequipments/EE01
-Emami,E06,/india/stockpricequote/personalcare/emami/E06
-Emami Paper,EPM01,/india/stockpricequote/paper/emamipapermills/EPM01
-Endurance Techn,ET01,/india/stockpricequote/auto23wheelers/endurancetechnologies/ET01
-EngineersInd,EI14,/india/stockpricequote/infrastructuregeneral/engineersindia/EI14
-Ent Network Ind,ENI,/india/stockpricequote/mediaentertainment/entertainmentnetworkindia/ENI
-EPL,EP11,/india/stockpricequote/packaging/epl/EP11
-Equitas Holding,EH03,/india/stockpricequote/financegeneral/equitasholdings/EH03
-Esab India,EI06,/india/stockpricequote/electrodesgraphite/esabindia/EI06
-Escorts,E,/india/stockpricequote/autotractors/escorts/E
-Ester Ind,EI20,/india/stockpricequote/packaging/esterindustries/EI20
-Eveready Ind,EII02,/india/stockpricequote/drycells/evereadyindustriesindia/EII02
-Everest Ind,EI19,/india/stockpricequote/cementproductsbuildingmaterials/everestindustries/EI19
-Everest Kanto,EKC,/india/stockpricequote/packaging/everestkantocylinder/EKC
-Excel,EI10,/india/stockpricequote/chemicals/excelindustries/EI10
-Exide Ind,EI,/india/stockpricequote/autoancillaries/exideindustries/EI
-Expleo Solution,TGS01,/india/stockpricequote/computerssoftware/expleosolutions/TGS01
-Fairchem Org.,FO01,/india/stockpricequote/specialitychemicals/fairchemorganics/FO01
-FDC,FDC,/india/stockpricequote/pharmaceuticals/fdc/FDC
-Federal Bank,FB,/india/stockpricequote/banksprivatesector/federalbank/FB
-Federal-Mogul,FMG,/india/stockpricequote/autoancillaries/federalmogulgoetze/FMG
-Fermenta Bio,DIL03,/india/stockpricequote/pharmaceuticals/fermentabiotech/DIL03
-FIEM Ind,FIE,/india/stockpricequote/autoancillaries/fiemindustries/FIE
-Filatex India,FI06,/india/stockpricequote/textilesmanmade/filatexindia/FI06
-Fine Organics,FOI,/india/stockpricequote/miscellaneous/fineorganicsindustries/FOI
-Fineotex Chem,FC02,/india/stockpricequote/specialitychemicals/fineotexchemical/FC02
-Finolex Cables,FC01,/india/stockpricequote/cablestelephone/finolexcables/FC01
-Finolex Ind,FI,/india/stockpricequote/petrochemicals/finolexindustries/FI
-Firstsource Sol,FS07,/india/stockpricequote/computerssoftwaremediumsmall/firstsourcesolutions/FS07
-Forbes Gokak,FG,/india/stockpricequote/textilesspinningcottonblended/forbesgokak/FG
-Force Motors,FM01,/india/stockpricequote/autolcvshcvs/forcemotors/FM01
-Fortis Health,FH,/india/stockpricequote/hospitalsmedicalservices/fortishealthcare/FH
-Foseco India,FI12,/india/stockpricequote/chemicals/fosecoindia/FI12
-Future Consumer,FVI,/india/stockpricequote/foodprocessing/futureconsumer/FVI
-Future Ent,PR03,/india/stockpricequote/retail/futureenterprises/PR03
-Future Ent DVR,FELDV57000,/india/stockpricequote/miscellaneous/futureenterpriseslimited/FELDV57000
-Future Life,FLF01,/india/stockpricequote/retail/futurelifestylefashions/FLF01
-Future Retail,FR,/india/stockpricequote/retail/futureretail/FR
-Future Supply,FSC,/india/stockpricequote/transportlogistics/futuresupplychainsolutions/FSC
-Gabriel India,GI02,/india/stockpricequote/autoancillaries/gabrielindia/GI02
-GAIL,GAI,/india/stockpricequote/oildrillingandexploration/gailindia/GAI
-Galaxy Surfacta,GSL06,/india/stockpricequote/miscellaneous/galaxysurfactantsltd/GSL06
-Gallantt Metal,GM02,/india/stockpricequote/steelspongeiron/gallanttmetal/GM02
-Gandhi Spl Tube,GST,/india/stockpricequote/steeltubespipes/gandhispecialtubes/GST
-Ganesh Benzo,GB01,/india/stockpricequote/chemicals/ganeshbenzoplast/GB01
-Ganesh Housing,GHC02,/india/stockpricequote/constructioncontractinghousing/ganeshhousingcorporation/GHC02
-Ganesha Ecosph,GP01,/india/stockpricequote/textilesprocessing/ganeshaecosphere/GP01
-Garden Reach Sh,GRS01,/india/stockpricequote/engineeringheavy/gardenreachshipbuildersengineers/GRS01
-Garware Technic,GWR,/india/stockpricequote/textilesgeneral/garwaretechnicalfibres/GWR
-Gati,G04,/india/stockpricequote/couriers/gati/G04
-Gayatri Project,GP10,/india/stockpricequote/constructioncontractingcivil/gayatriprojects/GP10
-GE Power India,AP29,/india/stockpricequote/powertransmissionequipment/gepowerindia/AP29
-GE Shipping,GES,/india/stockpricequote/shipping/greateasternshippingcompany/GES
-GE T&D India,ATD,/india/stockpricequote/powertransmissionequipment/getdindia/ATD
-General Insuran,GIC12,/india/stockpricequote/diversified/generalinsurancecorporationindia/GIC12
-Genus Power,GPI08,/india/stockpricequote/electricals/genuspowerinfrastructures/GPI08
-Geojit Fin,GBN01,/india/stockpricequote/financegeneral/geojitfinancialservices/GBN01
-GFL,GF07,/india/stockpricequote/chemicals/gfl/GF07
-GIC Housing Fin,GIC,/india/stockpricequote/financehousing/gichousingfinance/GIC
-GIL,GREEN54285,/india/stockpricequote/miscellaneous/greenpanelindustrieslimited/GREEN54285
-Gillette India,GI22,/india/stockpricequote/personalcare/gilletteindia/GI22
-GlaxoSmithKline,GSK,/india/stockpricequote/pharmaceuticals/glaxosmithklinepharmaceuticals/GSK
-Glenmark,GP08,/india/stockpricequote/pharmaceuticals/glenmarkpharma/GP08
-Globus Spirits,GS,/india/stockpricequote/breweriesdistilleries/globusspirits/GS
-GM Breweries,GMB,/india/stockpricequote/breweriesdistilleries/gmbreweries/GMB
-GMM Pfaudler,GMM01,/india/stockpricequote/engineeringheavy/gmmpfaudler/GMM01
-GNA Axles,A03,/india/stockpricequote/autoancillaries/gnaaxles/A03
-GNFC,GNV,/india/stockpricequote/fertilisers/gujaratnarmadavalleyfertilizerschemicals/GNV
-Goa Carbon,GC04,/india/stockpricequote/petrochemicals/goacarbon/GC04
-GOCL Corp,GOC01,/india/stockpricequote/chemicals/goclcorporation/GOC01
-Godawari Power,GPI7,/india/stockpricequote/steelspongeiron/godawaripowerispat/GPI7
-Godfrey Phillip,GPI,/india/stockpricequote/cigarettes/godfreyphillipsindia/GPI
-Godrej Agrovet,GA03,/india/stockpricequote/miscellaneous/godrejagrovet/GA03
-Godrej Consumer,GCP,/india/stockpricequote/personalcare/godrejconsumerproducts/GCP
-Godrej Ind,GI23,/india/stockpricequote/personalcare/godrejindustries/GI23
-Godrej Prop,GP11,/india/stockpricequote/constructioncontractingrealestate/godrejproperties/GP11
-Gokaldas Export,GE05,/india/stockpricequote/textilesreadymadeapparels/gokaldasexports/GE05
-Gokul Agro,GAR,/india/stockpricequote/edibleoilssolventextraction/gokulagroresources/GAR
-Goldiam Inter,GI10,/india/stockpricequote/diamondcuttingjewellerypreciousmetals/goldiaminternational/GI10
-Goodricke Group,GG02,/india/stockpricequote/plantationsteacoffee/goodrickegroup/GG02
-Goodyear,GI11,/india/stockpricequote/tyres/goodyearindia/GI11
-Granules India,GI25,/india/stockpricequote/pharmaceuticals/granulesindia/GI25
-Graphite India,GI13,/india/stockpricequote/electrodesgraphite/graphiteindia/GI13
-Grasim,GI01,/india/stockpricequote/diversified/grasimindustries/GI01
-Grauer and Weil,GWI,/india/stockpricequote/chemicals/grauerweilindia/GWI
-Gravita India,GI09,/india/stockpricequote/metalsnonferrous/gravitaindia/GI09
-Greaves Cotton,GC20,/india/stockpricequote/engines/greavescotton/GC20
-Greenlam Ind,GI31,/india/stockpricequote/miscellaneous/greenlamindustries/GI31
-Greenply Ind,GI19,/india/stockpricequote/miscellaneous/greenplyindustries/GI19
-Grindwell Norto,GN,/india/stockpricequote/abrasives/grindwellnorton/GN
-GRM Overseas,GRM01,/india/stockpricequote/foodprocessing/grmoverseas/GRM01
-GRWRHITECH,GP,/india/stockpricequote/packaging/garwarehitechfilms/GP
-GSFC,GSF,/india/stockpricequote/fertilisers/gujaratstatefertilizerschemicals/GSF
-GTL Infra,GTL02,/india/stockpricequote/telecommunicationsequipment/gtlinfrastructure/GTL02
-GTPL Hathway,GH02,/india/stockpricequote/mediaentertainment/gtplhathway/GH02
-Gufic Bio,GB04,/india/stockpricequote/pharmaceuticals/guficbiosciences/GB04
-Guj Alkali,GAC01,/india/stockpricequote/chemicals/gujaratalkalieschemicals/GAC01
-Guj Amb Exports,GAE,/india/stockpricequote/foodprocessing/gujaratambujaexports/GAE
-Guj Heavy Chem,GHC,/india/stockpricequote/chemicals/gujaratheavychemicals/GHC
-Guj Ind Power,GIP,/india/stockpricequote/powergenerationdistribution/gujaratindustriespowerco/GIP
-Guj Mineral,GMD,/india/stockpricequote/miningminerals/gujaratmineraldevelopmentcorporation/GMD
-Guj Sidhee Cem,GSC02,/india/stockpricequote/cementmajor/gujaratsidheecement/GSC02
-Guj State Petro,GSP02,/india/stockpricequote/oildrillingandexploration/gujaratstatepetronet/GSP02
-Guj Themis,GTB01,/india/stockpricequote/pharmaceuticals/gujaratthemisbiosyn/GTB01
-Gujarat Apollo,GAI03,/india/stockpricequote/engineeringheavy/gujaratapolloindustries/GAI03
-Gujarat Fluoro,GUJAR54281,/india/stockpricequote/chemicals/gujaratfluorochemicalslimited/GUJAR54281
-Gujarat Gas,GGC,/india/stockpricequote/oildrillingandexploration/gujaratgas/GGC
-Gujarat Pipavav,GPP03,/india/stockpricequote/shipping/gujaratpipavavport/GPP03
-Gulf Oil Lubric,GOL01,/india/stockpricequote/lubricants/gulfoillubricantsindia/GOL01
-Gulshan Poly,GP9,/india/stockpricequote/chemicals/gulshanpolyols/GP9
-Harrisons Malay,HM02,/india/stockpricequote/plantationsteacoffee/harrisonsmalyalam/HM02
-Hathway Cable,HCD,/india/stockpricequote/mediaentertainment/hathwaycabledatacom/HCD
-Hatsun Agro,HAP,/india/stockpricequote/foodprocessing/hatsunagroproducts/HAP
-Havells India,HI01,/india/stockpricequote/electricequipment/havellsindia/HI01
-Hawkins Cooker,HC02,/india/stockpricequote/domesticappliances/hawkinscooker/HC02
-HBL Power,HBL02,/india/stockpricequote/electricequipment/hblpowersystems/HBL02
-HCL Info,HCL,/india/stockpricequote/computershardware/hclinfosystems/HCL
-HCL Tech,HCL02,/india/stockpricequote/computerssoftware/hcltechnologies/HCL02
-HDFC,HDF,/india/stockpricequote/financehousing/housingdevelopmentfinancecorporation/HDF
-HDFC AMC,HAM02,/india/stockpricequote/financeinvestments/hdfcassetmanagementcompany/HAM02
-HDFC Bank,HDF01,/india/stockpricequote/banksprivatesector/hdfcbank/HDF01
-HDFC Life,HSL01,/india/stockpricequote/lifehealthinsurance/hdfclifeinsurancecompany/HSL01
-Healthcare Glob,HGE,/india/stockpricequote/hospitalsmedicalservices/healthcareglobalenterprises/HGE
-HEG,HEG,/india/stockpricequote/electrodesgraphite/heg/HEG
-Heidelberg Cem,HCI02,/india/stockpricequote/cementmajor/heidelbergcementindia/HCI02
-Hemisphere,HPI01,/india/stockpricequote/hemispherepropertiesindia/hemispherepropertiesindia/HPI01
-Heranba,HI14,/india/stockpricequote/pesticidesagrochemicals/heranbaindustries/HI14
-Hercules Hoists,HH01,/india/stockpricequote/engineering/herculeshoists/HH01
-Heritage Foods,HFI,/india/stockpricequote/foodprocessing/heritagefoods/HFI
-Hero Motocorp,HHM,/india/stockpricequote/auto23wheelers/heromotocorp/HHM
-Hester Bio,HB01,/india/stockpricequote/pharmaceuticals/hesterbiosciences/HB01
-Hexa Tradex,HT03,/india/stockpricequote/financeinvestments/hexatradex/HT03
-HFCL,HFC,/india/stockpricequote/telecommunicationsequipment/hfcl/HFC
-HG Infra Engg,HIE,/india/stockpricequote/infrastructuregeneral/hginfraengineeringltd/HIE
-Hikal,H05,/india/stockpricequote/pharmaceuticals/hikal/H05
-HIL,HI09,/india/stockpricequote/cementproductsbuildingmaterials/hil/HI09
-Himadri Special,HCI01,/india/stockpricequote/chemicals/himadrispecialitychemical/HCI01
-Himatsingka Sei,HS,/india/stockpricequote/textilessyntheticsilk/himatsingkaseide/HS
-Hind Constr,HCC,/india/stockpricequote/constructioncontractingcivil/hindustanconstructioncompany/HCC
-Hind Copper,HC07,/india/stockpricequote/metalsnonferrous/hindustancopper/HC07
-Hind Zinc,HZ,/india/stockpricequote/metalsnonferrous/hindustanzinc/HZ
-Hindalco,HI,/india/stockpricequote/ironsteel/hindalcoindustries/HI
-Hinduja Global,HGS01,/india/stockpricequote/computerssoftware/hindujaglobalsolutions/HGS01
-Hindustan Aeron,HAL,/india/stockpricequote/diversified/hindustanaeronauticsltd/HAL
-Hindustan Foods,HFL,/india/stockpricequote/foodprocessing/hindustanfoods/HFL
-Hindustan Media,HMV,/india/stockpricequote/mediaentertainment/hindustanmediaventures/HMV
-HLE Glascoat,SGE02,/india/stockpricequote/glassglassproducts/hleglascoat/SGE02
-HOEC,HOE01,/india/stockpricequote/oildrillingandexploration/hindustanoilexplorationcompany/HOE01
-Honda India PP,HSP02,/india/stockpricequote/electricequipment/hondaindiapowerproductslimited/HSP02
-Honeywell Autom,HA04,/india/stockpricequote/telecommunicationsequipment/honeywellautomation/HA04
-HPCL,HPC,/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC
-HPL Electric & ,HEP,/india/stockpricequote/electricequipment/hplelectricpower/HEP
-HSIL,HSI02,/india/stockpricequote/ceramicsgranite/hsil/HSI02
-HT Media,HT,/india/stockpricequote/mediaentertainment/htmedia/HT
-HUDCO,HUD,/india/stockpricequote/constructioncontractingrealestate/housingurbandevelopmentcorporation/HUD
-Huhtamaki India,PP,/india/stockpricequote/packaging/huhtamakiindia/PP
-HUL,HU,/india/stockpricequote/personalcare/hindustanunilever/HU
-ICICI Bank,ICI02,/india/stockpricequote/banksprivatesector/icicibank/ICI02
-ICICI Lombard ,ILG,/india/stockpricequote/lifehealthinsurance/icicilombardgeneralinsurancecompany/ILG
-ICICI Prudentia,IPL01,/india/stockpricequote/financegeneral/iciciprudentiallifeinsurancecompany/IPL01
-ICICI Securitie,ISL04,/india/stockpricequote/miscellaneous/icicisecuritiesltd/ISL04
-ICRA,ICR,/india/stockpricequote/miscellaneous/icra/ICR
-IDBI Bank,IDB05,/india/stockpricequote/bankprivate/idbibank/IDB05
-IDFC,IDF,/india/stockpricequote/financetermlendinginstitutions/idfc/IDF
-IDFC First Bank,IDF01,/india/stockpricequote/bankprivate/idfcfirstbank/IDF01
-IEX,IEE,/india/stockpricequote/diversified/indianenergyexchange/IEE
-IFB Agro,IFB,/india/stockpricequote/breweriesdistilleries/ifbagroindustries/IFB
-IFB Industries,IFB02,/india/stockpricequote/consumergoodswhitegoods/ifbindustries/IFB02
-IFCI,IFC02,/india/stockpricequote/financetermlendinginstitutions/ifci/IFC02
-IFGL Refractory,IFG,/india/stockpricequote/cementproductsbuildingmaterials/ifglrefractories/IFG
-IG Petro,IGP,/india/stockpricequote/chemicals/igpetrochemicals/IGP
-Igarashi Motors,IM01,/india/stockpricequote/electricequipment/igarashimotors/IM01
-IGL,IG04,/india/stockpricequote/oildrillingandexploration/indraprasthagas/IG04
-IIFL Finance,II15,/india/stockpricequote/financegeneral/iiflfinance/II15
-Ind-Swift Labs,ISL,/india/stockpricequote/pharmaceuticals/indswiftlaboratories/ISL
-India Cements,IC,/india/stockpricequote/cementmajor/indiacements/IC
-India Glycols,IG,/india/stockpricequote/chemicals/indiaglycols/IG
-India Nippon,INE,/india/stockpricequote/autoancillaries/indianipponelectricals/INE
-India Tourism D,ITD02,/india/stockpricequote/hotels/indiatourismdevelopmentcorporation/ITD02
-Indiabulls Hsg,IHF01,/india/stockpricequote/financehousing/indiabullshousingfinance/IHF01
-Indiabulls Real,IRE01,/india/stockpricequote/constructioncontractingrealestate/indiabullsrealestate/IRE01
-Indiamart Inter,II12,/india/stockpricequote/miscellaneous/indiamartintermesh/II12
-Indian Bank,IB04,/india/stockpricequote/bankspublicsector/indianbank/IB04
-Indian Hotels,IHC,/india/stockpricequote/hotels/indianhotelscompany/IHC
-Indian Hume,IHP,/india/stockpricequote/cementproductsbuildingmaterials/indianhumepipecompany/IHP
-Indian Metals,IMF01,/india/stockpricequote/miningminerals/indianmetalsferroalloys/IMF01
-Indigo Paints,IP08,/india/stockpricequote/paints/indigopaints/IP08
-Indo Count,ICI07,/india/stockpricequote/textilesspinningcottonblended/indocountindustries/ICI07
-Indo Rama Synth,IRS,/india/stockpricequote/textilesspinningsyntheticblended/indoramasyntheticsindia/IRS
-Indo-National,NBC,/india/stockpricequote/drycells/indonational/NBC
-Indoco Remedies,IR05,/india/stockpricequote/pharmaceuticals/indocoremedies/IR05
-Indostar Capita,ICF,/india/stockpricequote/financegeneral/indostarcapitalfinance/ICF
-Indraprastha,IMC03,/india/stockpricequote/hospitalsmedicalservices/indraprasthamedicalcorporation/IMC03
-INDUS TOWERS,BI14,/india/stockpricequote/telecommunicationsequipment/industowers/BI14
-IndusInd Bank,IIB,/india/stockpricequote/banksprivatesector/indusindbank/IIB
-INEOS Styro,INE01,/india/stockpricequote/petrochemicals/ineosstyrolutionindia/INE01
-Infibeam Avenue,IIL03,/india/stockpricequote/miscellaneous/infibeamavenues/IIL03
-Info Edge,IEI01,/india/stockpricequote/miscellaneous/infoedgeindia/IEI01
-Infosys,IT,/india/stockpricequote/computerssoftware/infosys/IT
-Ingersoll Rand,IRI01,/india/stockpricequote/compressors/ingersollrandindia/IRI01
-INOX Leisure,INO01,/india/stockpricequote/mediaentertainment/inoxleisure/INO01
-Inox Wind,IW,/india/stockpricequote/powergenerationdistribution/inoxwind/IW
-Insecticides,II16,/india/stockpricequote/pesticidesagrochemicals/insecticidesindia/II16
-Intellect Desig,IDA,/india/stockpricequote/computerssoftware/intellectdesignarena/IDA
-Interglobe Avi,IA04,/india/stockpricequote/transportlogistics/interglobeaviation/IA04
-IOB,IOB,/india/stockpricequote/bankspublicsector/indianoverseasbank/IOB
-IOC,IOC,/india/stockpricequote/refineries/indianoilcorporation/IOC
-IOL Chemicals,IOL01,/india/stockpricequote/pharmaceuticals/iolchemicalspharmaceuticals/IOL01
-Ion Exchange,IEI,/india/stockpricequote/engineering/ionexchangeindia/IEI
-Ipca Labs,IL,/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL
-IRB Infra,IID01,/india/stockpricequote/infrastructuregeneral/irbinfrastructuredevelopers/IID01
-Ircon Internati,II07,/india/stockpricequote/engineeringheavy/irconinternational/II07
-IRCTC,IRC,/india/stockpricequote/miscellaneous/irctcindianrailwaycateringtourismcorp/IRC
-ISGEC Heavy Eng,SIS06,/india/stockpricequote/engineeringheavy/isgecheavyengineering/SIS06
-ISL,IIFLS54277,/india/stockpricequote/miscellaneous/iiflsecuritieslimited/IIFLS54277
-ITC,ITC,/india/stockpricequote/cigarettes/itc/ITC
-ITD Cementation,ITD03,/india/stockpricequote/constructioncontractingcivil/itdcementationindia/ITD03
-ITI,ITI,/india/stockpricequote/telecommunicationsequipment/iti/ITI
-IWML,IIFLW54277,/india/stockpricequote/miscellaneous/iiflwealthmanagementlimited/IIFLW54277
-J Kumar Infra,KI01,/india/stockpricequote/constructioncontractingcivil/jkumarinfraprojects/KI01
-J. K. Cement,JKC03,/india/stockpricequote/cementmajor/jkcement/JKC03
-JagranPrakashan,JP12,/india/stockpricequote/mediaentertainment/jagranprakashan/JP12
-Jai Corp,JC08,/india/stockpricequote/steelgpgcsheets/jaicorp/JC08
-Jain Irrigation,JIS02,/india/stockpricequote/plastics/jainirrigationsystems/JIS02
-Jaiprakash Asso,JA02,/india/stockpricequote/infrastructuregeneral/jaiprakashassociates/JA02
-Jaiprakash Pow,JHP01,/india/stockpricequote/powergenerationdistribution/jaiprakashpowerventures/JHP01
-Jamna Auto,JAI,/india/stockpricequote/autoancillaries/jamnaautoindustries/JAI
-Jay BharatMarut,JBM,/india/stockpricequote/autoancillaries/jaybharatmaruti/JBM
-Jayant Agro-Org,JAO,/india/stockpricequote/chemicals/jayantagroorganics/JAO
-Jaypee Infra,JI09,/india/stockpricequote/infrastructuregeneral/jaypeeinfratech/JI09
-JB Chemicals,JBC01,/india/stockpricequote/pharmaceuticals/jbchemicalspharmaceuticals/JBC01
-JBM Auto,JBM03,/india/stockpricequote/autoancillaries/jbmauto/JBM03
-Jindal (Hisar),JSH,/india/stockpricequote/steellarge/jindalstainlesshisar/JSH
-Jindal Drilling,JDI,/india/stockpricequote/oildrillingandexploration/jindaldrillingindustries/JDI
-Jindal PolyFilm,JPF01,/india/stockpricequote/packaging/jindalpolyfilms/JPF01
-Jindal Saw,JS08,/india/stockpricequote/steeltubespipes/jindalsaw/JS08
-Jindal Stainles,JSL01,/india/stockpricequote/steelmediumsmall/jindalstainless/JSL01
-Jindal Steel,JSP,/india/stockpricequote/steelspongeiron/jindalsteelpower/JSP
-Jindal Worldwid,JW01,/india/stockpricequote/textilesgeneral/jindalworldwide/JW01
-JISL,JISLD57000,/india/stockpricequote/miscellaneous/jainirrigationsystems/JISLD57000
-JK Bank,JKB,/india/stockpricequote/banksprivatesector/jammukashmirbank/JKB
-JK Lakshmi Cem,JKL01,/india/stockpricequote/cementmajor/jklakshmicement/JKL01
-JK Paper,JKP01,/india/stockpricequote/paper/jkpaper/JKP01
-JK Tyre & Ind,JKT01,/india/stockpricequote/tyres/jktyreindustries/JKT01
-JM Financial,JMF,/india/stockpricequote/financeinvestments/jmfinancial/JMF
-JMC Projects,JMC,/india/stockpricequote/constructioncontractingcivil/jmcprojectsindia/JMC
-Johnson Control,HHL,/india/stockpricequote/consumergoodswhitegoods/johnsoncontrolshitachiairconditioningindia/HHL
-JSW Energy,JE01,/india/stockpricequote/powergenerationdistribution/jswenergy/JE01
-JSW Holdings,JSW,/india/stockpricequote/financeinvestments/jswholdings/JSW
-JSW Ispat Speci,MI16,/india/stockpricequote/steelspongeiron/jswispatspecialproducts/MI16
-JSW Steel,JSW01,/india/stockpricequote/steellarge/jswsteel/JSW01
-JTEKT India ,SKS04,/india/stockpricequote/autoancillaries/jtektindia/SKS04
-JTL Infra,JTL01,/india/stockpricequote/steeltubespipes/jtlinfra/JTL01
-Jubilant Food,JF04,/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04
-Jubilant Ind,JI10,/india/stockpricequote/miscellaneous/jubilantindustries/JI10
-Jubilant Pharmo,JO03,/india/stockpricequote/pharmaceuticals/jubilantpharmova/JO03
-Just Dial,JD,/india/stockpricequote/miscellaneous/justdial/JD
-Jyothy Labs,JL,/india/stockpricequote/personalcare/jyothylabs/JL
-Kabra Extrusion,KET,/india/stockpricequote/engineeringheavy/kabraextrusiontechnik/KET
-Kajaria Ceramic,KC06,/india/stockpricequote/ceramicsgranite/kajariaceramics/KC06
-Kalpataru Power,KPT,/india/stockpricequote/powertransmissionequipment/kalpatarupowertransmission/KPT
-Kalyani Steels,KS01,/india/stockpricequote/steelrolling/kalyanisteels/KS01
-Kamdhenu,KI24,/india/stockpricequote/steelmediumsmall/kamdhenu/KI24
-Kanchi Karp,KK01,/india/stockpricequote/chemicals/kanchikarpooram/KK01
-Kanoria Chem,KCI01,/india/stockpricequote/chemicals/kanoriachemicalsindustries/KCI01
-Kansai Nerolac,KNP,/india/stockpricequote/paintsvarnishes/kansainerolacpaints/KNP
-Karnataka Bank,KB04,/india/stockpricequote/banksprivatesector/karnatakabank/KB04
-Kaveri Seed,KSC01,/india/stockpricequote/miscellaneous/kaveriseedcompany/KSC01
-Kaya,K03,/india/stockpricequote/miscellaneous/kaya/K03
-KBC Global,KC19,/india/stockpricequote/constructionrealestate/kbcglobal/KC19
-KEC Intl,KEC04,/india/stockpricequote/powertransmissionequipment/kecinternational/KEC04
-KEI Industries,KEI,/india/stockpricequote/cablespowerothers/keiindustries/KEI
-Kellton Tech,VMF,/india/stockpricequote/computerssoftwaremediumsmall/kelltontechsolutions/VMF
-Kennametal,WI06,/india/stockpricequote/machinetools/kennametalindia/WI06
-Kesoram,KI08,/india/stockpricequote/diversified/kesoramindustries/KI08
-Khadim India,KIL,/india/stockpricequote/leatherproducts/khadimindialimited/KIL
-Khaitan Chemica,KCF,/india/stockpricequote/fertilisers/khaitanchemicalsfertilizers/KCF
-Kilpest (I),KI17,/india/stockpricequote/pesticidesagrochemicals/kilpestindia/KI17
-Kingfa Science,HSS,/india/stockpricequote/plastics/kingfasciencetechnology/HSS
-KIOCL,KIO,/india/stockpricequote/steelspongeiron/kiocl/KIO
-Kiri Industries,KDC01,/india/stockpricequote/dyespigments/kiriindustries/KDC01
-Kirloskar Bros,KB02,/india/stockpricequote/pumps/kirloskarbrothers/KB02
-Kirloskar Ferro,KFI01,/india/stockpricequote/steelpigiron/kirloskarferrousindustries/KFI01
-Kirloskar Ind,KOE,/india/stockpricequote/engines/kirloskarindustries/KOE
-Kirloskar Oil,KOE03,/india/stockpricequote/engines/kirloskaroilengines/KOE03
-Kirloskar Pneum,KGK,/india/stockpricequote/compressors/kirloskarpneumaticcompany/KGK
-Kitex Garments,KG01,/india/stockpricequote/textilesreadymadeapparels/kitexgarments/KG01
-KNR Construct,KC13,/india/stockpricequote/constructioncontractingcivil/knrconstructions/KC13
-Kokuyo Camlin,C02,/india/stockpricequote/diversified/kokuyocamlin/C02
-Kolte-Patil,KD07,/india/stockpricequote/constructioncontractingrealestate/koltepatildevelopers/KD07
-Kopran,K01,/india/stockpricequote/pharmaceuticals/kopran/K01
-Kotak Mahindra,KMB,/india/stockpricequote/banksprivatesector/kotakmahindrabank/KMB
-Kovai Medical,KMC02,/india/stockpricequote/hospitalsmedicalservices/kovaimedicalcenterhospital/KMC02
-KPIT Tech,KPITT54265,/india/stockpricequote/itservicesconsulting/kpittechnologies/KPITT54265
-KPR Mill,M15,/india/stockpricequote/textilesreadymadeapparels/kprmill/M15
-KRBL,KRB01,/india/stockpricequote/foodprocessing/krbl/KRB01
-Kriti Ind,KII,/india/stockpricequote/plastics/kritiindustriesindia/KII
-KSB Pumps,KSB,/india/stockpricequote/pumps/ksb/KSB
-Kuantum Papers,ABC07,/india/stockpricequote/paper/kuantumpapers/ABC07
-L&T Finance,LFH,/india/stockpricequote/financeinvestments/ltfinanceholdings/LFH
-L&T Infotech,LI12,/india/stockpricequote/computerssoftware/larsentoubroinfotech/LI12
-L&T Technology,LTS,/india/stockpricequote/computerssoftware/lttechnologyservices/LTS
-La Opala RG,LOR,/india/stockpricequote/glassglassproducts/laopalarg/LOR
-Lakshmi Machine,LMW,/india/stockpricequote/textilesmachinery/lakshmimachineworks/LMW
-Larsen,LT,/india/stockpricequote/infrastructuregeneral/larsentoubro/LT
-Lasa Supergener,LS06,/india/stockpricequote/miscellaneous/lasasupergenerics/LS06
-Laurus Labs,LL05,/india/stockpricequote/pharmaceuticals/lauruslabs/LL05
-Laxmi Organic,LOI,/india/stockpricequote/specialitychemicals/laxmiorganicindustries/LOI
-Lemon Tree Hote,LTH,/india/stockpricequote/hotels/lemontreehotelsltd/LTH
-LG Balakrishnan,LGB,/india/stockpricequote/autoancillaries/lgbalakrishnanbrothers/LGB
-Liberty Shoes,LS02,/india/stockpricequote/leatherproducts/libertyshoes/LS02
-LIC Housing Fin,LIC,/india/stockpricequote/financehousing/lichousingfinance/LIC
-Lincoln Pharma,LP06,/india/stockpricequote/pharmaceuticals/lincolnpharmaceuticals/LP06
-Linde India,BOC,/india/stockpricequote/chemicals/lindeindia/BOC
-LT Foods,LTF,/india/stockpricequote/foodprocessing/ltfoods/LTF
-Lumax Auto Tech,LAT01,/india/stockpricequote/autoancillaries/lumaxautotechnologies/LAT01
-Lumax Inds,LI05,/india/stockpricequote/autoancillaries/lumaxindustries/LI05
-Lupin,L,/india/stockpricequote/pharmaceuticals/lupin/L
-Lux Industries,LHI,/india/stockpricequote/textilesprocessing/luxindustries/LHI
-M&M,MM,/india/stockpricequote/autocarsjeeps/mahindramahindra/MM
-Macrotech Dev,MD03,/india/stockpricequote/constructionresidentialcommercialcomplexes/macrotechdevelopers/MD03
-Mah Scooters,MS01,/india/stockpricequote/auto23wheelers/maharashtrascooters/MS01
-Mah Seamless,MS02,/india/stockpricequote/steeltubespipes/maharashtraseamless/MS02
-Mahanagar Gas,MG02,/india/stockpricequote/refineries/mahanagargas/MG02
-Mahindra CIE,MF19,/india/stockpricequote/castingsforgings/mahindracieautomotive/MF19
-Mahindra EPC,EPC,/india/stockpricequote/plastics/mahindraepcirrigation/EPC
-Mahindra Holida,MHR,/india/stockpricequote/hotels/mahindraholidaysresortsindia/MHR
-Mahindra Life,MLD,/india/stockpricequote/constructioncontractingcivil/mahindralifespacedevelopers/MLD
-Mahindra Logist,ML04,/india/stockpricequote/diversified/mahindralogistics/ML04
-Man Industries,MII,/india/stockpricequote/steeltubespipes/manindustriesindia/MII
-Man Infra,MI37,/india/stockpricequote/constructioncontractingcivil/maninfraconstruction/MI37
-Manaksia,M16,/india/stockpricequote/steelrolling/manaksia/M16
-Manali Petro,MP02,/india/stockpricequote/petrochemicals/manalipetrochemicals/MP02
-Manappuram Fin,MGF01,/india/stockpricequote/financeleasinghirepurchase/manappuramfinance/MGF01
-Mangalam Cement,MC03,/india/stockpricequote/cementmajor/mangalamcement/MC03
-Mangalam Organ,DP06,/india/stockpricequote/chemicals/mangalamorganics/DP06
-Mangalore Chem,MCF01,/india/stockpricequote/fertilisers/mangalorechemicalsfertilisers/MCF01
-Manorama Indust,MI45,/india/stockpricequote/foodprocessing/manoramaindustries/MI45
-Marathon Realty,MNR,/india/stockpricequote/constructioncontractingrealestate/marathonnextgenrealty/MNR
-Marico,M13,/india/stockpricequote/personalcare/marico/M13
-Marksans Pharma,MP21,/india/stockpricequote/pharmaceuticals/marksanspharma/MP21
-Maruti Suzuki,MS24,/india/stockpricequote/autocarsjeeps/marutisuzukiindia/MS24
-MAS Financial S,MFS09,/india/stockpricequote/financegeneral/masfinancialservices/MFS09
-Mastek,M,/india/stockpricequote/computerssoftware/mastek/M
-Matrimony.com,M20,/india/stockpricequote/miscellaneous/matrimonycom/M20
-Max Financial,MI,/india/stockpricequote/financeinvestments/maxfinancialservices/MI
-Max Ventures an,MVI,/india/stockpricequote/packaging/maxventuresindustries/MVI
-Mayur Uniquoter,MU,/india/stockpricequote/plastics/mayuruniquoters/MU
-Mcleod,MRI02,/india/stockpricequote/plantationsteacoffee/mcleodrusselindia/MRI02
-MCX India,MCE,/india/stockpricequote/miscellaneous/multicommodityexchangeindia/MCE
-Medicamen Bio,MB,/india/stockpricequote/pharmaceuticals/medicamenbiotech/MB
-Menon Bearings,MB01,/india/stockpricequote/bearings/menonbearings/MB01
-MEP Infra,MID,/india/stockpricequote/infrastructuregeneral/mepinfrastructuredevelopers/MID
-Metropolis,MH06,/india/stockpricequote/hospitalsmedicalservices/metropolishealthcare/MH06
-Minda Corp,MC23,/india/stockpricequote/autoancillaries/mindacorporation/MC23
-Minda Ind,MI4,/india/stockpricequote/autoancillaries/mindaindustries/MI4
-Mindtree,MT13,/india/stockpricequote/computerssoftware/mindtree/MT13
-Mirc Electronic,ME,/india/stockpricequote/consumergoodselectronic/mircelectronics/ME
-Mirza Intl,MI46,/india/stockpricequote/leatherproducts/mirzainternational/MI46
-Mishra Dhatu Ni,MDN,/india/stockpricequote/miscellaneous/mishradhatunigamltd/MDN
-MM Forgings,MMF,/india/stockpricequote/castingsforgings/mmforgings/MMF
-MMTC Ltd,MMT,/india/stockpricequote/trading/mmtc/MMT
-MOIL,M18,/india/stockpricequote/miningminerals/moil/M18
-Mold-Tek Pack,MTP01,/india/stockpricequote/plastics/moldtekpackaging/MTP01
-Monte Carlo,MC05,/india/stockpricequote/textilesreadymadeapparels/montecarlofashions/MC05
-Morepen Lab,ML06,/india/stockpricequote/pharmaceuticals/morepenlaboratories/ML06
-Motilal Oswal,MOF01,/india/stockpricequote/financegeneral/motilaloswalfinancialservices/MOF01
-MphasiS,MB02,/india/stockpricequote/computerssoftware/mphasis/MB02
-MPS,MI31,/india/stockpricequote/printingstationery/mps/MI31
-MRF,MRF,/india/stockpricequote/tyres/mrf/MRF
-MRPL,MRP,/india/stockpricequote/refineries/mangalorerefinerypetrochemicals/MRP
-MSTC,M21,/india/stockpricequote/miscellaneous/mstc/M21
-MTNL,MTN,/india/stockpricequote/telecommunicationsservice/mahanagartelephonenigam/MTN
-Mukand,M02,/india/stockpricequote/steelmediumsmall/mukand/M02
-Munjal Auto Ind,MAI04,/india/stockpricequote/autoancillaries/munjalautoindustries/MAI04
-Munjal Showa,MS,/india/stockpricequote/autoancillaries/munjalshowa/MS
-Music Broadcast,MB05,/india/stockpricequote/mediaentertainment/musicbroadcast/MB05
-Muthoot Cap,MCS02,/india/stockpricequote/financeinvestments/muthootcapitalservices/MCS02
-Muthoot Finance,MF10,/india/stockpricequote/financeinvestments/muthootfinance/MF10
-Nacl Industries,NA04,/india/stockpricequote/pesticidesagrochemicals/naclindustries/NA04
-Nahar Poly Film,NIH,/india/stockpricequote/textilesspinningcottonblended/naharpolyfilms/NIH
-Nahar Spinning,NSM,/india/stockpricequote/textileshosieryknitwear/naharspinningmills/NSM
-NALCO,NAC,/india/stockpricequote/aluminium/nationalaluminiumcompany/NAC
-Narayana Hruda,NH,/india/stockpricequote/hospitalsmedicalservices/narayanahrudayalaya/NH
-Natco Pharma,NP07,/india/stockpricequote/pharmaceuticals/natcopharma/NP07
-Nath Bio-Genes,NBG,/india/stockpricequote/pharmaceuticals/nathbiogenes/NBG
-National Perox,NP03,/india/stockpricequote/chemicals/nationalperoxide/NP03
-Nava Bharat Ven,NBV,/india/stockpricequote/diversified/navabharatventures/NBV
-Navin Fluorine,NFI,/india/stockpricequote/chemicals/navinfluorineinternational/NFI
-Navkar Corp,NC02,/india/stockpricequote/transportlogistics/navkarcorporation/NC02
-Navneet,NP01,/india/stockpricequote/printingstationery/navneeteducation/NP01
-NBCC (India),NBC01,/india/stockpricequote/infrastructuregeneral/nbccindia/NBC01
-NCC,NCC01,/india/stockpricequote/constructioncontractingcivil/ncc/NCC01
-NCL Industries,NCL,/india/stockpricequote/cementmini/nclindustries/NCL
-Nectar Life,NL01,/india/stockpricequote/pharmaceuticals/nectarlifesciences/NL01
-Nelcast,N06,/india/stockpricequote/castingsforgings/nelcast/N06
-NELCO,NEL,/india/stockpricequote/telecommunicationsequipment/nelco/NEL
-Neogen,NC11,/india/stockpricequote/chemicals/neogenchemicals/NC11
-NESCO,NES,/india/stockpricequote/diversified/nesco/NES
-Nestle,NI,/india/stockpricequote/foodprocessing/nestleindia/NI
-Network 18,NMI,/india/stockpricequote/mediaentertainment/network18mediainvestments/NMI
-Neuland Lab,NL,/india/stockpricequote/pharmaceuticals/neulandlaboratories/NL
-New India Assur,NIA,/india/stockpricequote/miscellaneous/newindiaassurancecompany/NIA
-Newgen Software,NST01,/india/stockpricequote/computerssoftware/newgensoftwaretechnologies/NST01
-NFL,NF06,/india/stockpricequote/fertilisers/nationalfertilizers/NF06
-NGL Fine Chem,NGL,/india/stockpricequote/pharmaceuticals/nglfinechem/NGL
-NHPC,N07,/india/stockpricequote/powergenerationdistribution/nhpc/N07
-NIIT,NII,/india/stockpricequote/computerssoftwaretraining/niit/NII
-Nilkamal,NP08,/india/stockpricequote/plastics/nilkamal/NP08
-Nippon,RNL,/india/stockpricequote/miscellaneous/nipponlifeindiaassetmanagement/RNL
-Nitin Spinners,NS12,/india/stockpricequote/textilesspinningcottonblended/nitinspinners/NS12
-NLC India,NLC,/india/stockpricequote/powergenerationdistribution/nlcindia/NLC
-NMDC,NMD02,/india/stockpricequote/miningminerals/nmdc/NMD02
-NOCIL,NOC02,/india/stockpricequote/petrochemicals/nocil/NOC02
-Novartis India,NI01,/india/stockpricequote/pharmaceuticals/novartisindia/NI01
-NR Agarwal,NRA,/india/stockpricequote/paper/nragarwalindustries/NRA
-NRB Bearings,NRB,/india/stockpricequote/bearings/nrbbearings/NRB
-NTPC,NTP,/india/stockpricequote/powergenerationdistribution/ntpc/NTP
-Nucleus Softwar,NS,/india/stockpricequote/computerssoftwaremediumsmall/nucleussoftwareexports/NS
-Nxtdigital,HV,/india/stockpricequote/mediaentertainment/nxtdigital/HV
-Oberoi Realty,OR,/india/stockpricequote/constructioncontractingrealestate/oberoirealty/OR
-Oil India,OI13,/india/stockpricequote/oildrillingandexploration/oilindia/OI13
-Olectra Greente,GI29,/india/stockpricequote/telecommunicationsservice/olectragreentech/GI29
-Omaxe,O02,/india/stockpricequote/constructioncontractingrealestate/omaxe/O02
-ONGC,ONG,/india/stockpricequote/oildrillingandexploration/oilnaturalgascorporation/ONG
-OnMobile Global,OG01,/india/stockpricequote/telecommunicationsservice/onmobileglobal/OG01
-Oracle Fin Serv,OFS01,/india/stockpricequote/computerssoftware/oraclefinancialservicessoftware/OFS01
-Oricon Ent,OE03,/india/stockpricequote/packaging/oriconenterprises/OE03
-Orient Abrasive,OA01,/india/stockpricequote/abrasives/orientabrasives/OA01
-Orient Bell,OCI,/india/stockpricequote/ceramicsgranite/orientbell/OCI
-Orient Cement,OC10,/india/stockpricequote/cementmajor/orientcement/OC10
-Orient Paper,OPI,/india/stockpricequote/paperforestproducts/orientpaperindustries/OPI
-ORIENTAL AROMAT,CAP,/india/stockpricequote/chemicals/orientalaromaticsltd/CAP
-Oriental Carbon,OCC,/india/stockpricequote/chemicals/orientalcarbonchemicals/OCC
-P and G,PGH,/india/stockpricequote/personalcare/proctergamblehygienehealthcare/PGH
-Page Industries,PI35,/india/stockpricequote/textilesreadymadeapparels/pageindustries/PI35
-Paisalo Digital,SEI03,/india/stockpricequote/financeinvestments/paisalodigitalltd/SEI03
-Panacea Biotec,PB02,/india/stockpricequote/pharmaceuticals/panaceabiotec/PB02
-Panama Petro,PP02,/india/stockpricequote/chemicals/panamapetrochem/PP02
-Parag Milk Food,PMF01,/india/stockpricequote/foodprocessing/paragmilkfoods/PMF01
-Patel Eng,PEC,/india/stockpricequote/constructioncontractingcivil/patelengineeringcompany/PEC
-Paushak Ltd,P11,/india/stockpricequote/chemicals/paushak/P11
-PCBL,PCB01,/india/stockpricequote/carbonblack/pcbl/PCB01
-PDS,PDS,/india/stockpricequote/textilesgeneral/pds/PDS
-Pennar Inds,PI28,/india/stockpricequote/steelcrhrstrips/pennarindustries/PI28
-Persistent,PS15,/india/stockpricequote/computerssoftware/persistentsystems/PS15
-Petronet LNG,PLN,/india/stockpricequote/oildrillingandexploration/petronetlng/PLN
-Pfizer,P,/india/stockpricequote/pharmaceuticals/pfizer/P
-PG Electroplast,PE06,/india/stockpricequote/consumergoodselectronic/pgelectroplast/PE06
-Phoenix Mills,PM02,/india/stockpricequote/constructioncontractingrealestate/phoenixmills/PM02
-PI Industries,PII,/india/stockpricequote/pesticidesagrochemicals/piindustries/PII
-Pidilite Ind,PI11,/india/stockpricequote/chemicals/pidiliteindustries/PI11
-Pilani Invest,PII03,/india/stockpricequote/financegeneral/pilaniinvestmentindustriescorporation/PII03
-Piramal Enter,PH05,/india/stockpricequote/pharmaceuticals/piramalenterprises/PH05
-Pix Transmis,PT07,/india/stockpricequote/rubber/pixtransmissions/PT07
-Plastiblends,PI13,/india/stockpricequote/plastics/plastiblendsindia/PI13
-PNB,PNB05,/india/stockpricequote/bankspublicsector/punjabnationalbank/PNB05
-PNB Gilts,PNB04,/india/stockpricequote/financeinvestments/pnbgilts/PNB04
-PNB Housing Fin,PHF,/india/stockpricequote/financehousing/pnbhousingfinance/PHF
-PNC Infratech,PI26,/india/stockpricequote/constructioncontractingrealestate/pncinfratech/PI26
-Pokarna,PL06,/india/stockpricequote/ceramicsgranite/pokarna/PL06
-Poly Medicure,PM06,/india/stockpricequote/hospitalsmedicalservices/polymedicure/PM06
-Polycab,PI44,/india/stockpricequote/cablespowerothers/polycabindia/PI44
-Polyplex Corp,PC08,/india/stockpricequote/packaging/polyplexcorporation/PC08
-Poonawalla Fin,MF20,/india/stockpricequote/financeleasinghirepurchase/poonawallafincorp/MF20
-Power Finance,PFC02,/india/stockpricequote/financetermlendinginstitutions/powerfinancecorporation/PFC02
-Power Grid Corp,PGC,/india/stockpricequote/powergenerationdistribution/powergridcorporationindia/PGC
-Power Mech,PMP,/india/stockpricequote/infrastructuregeneral/powermechprojects/PMP
-PPAP Automotive,PPP03,/india/stockpricequote/autoancillaries/ppapautomotive/PPP03
-PPL,PPL54268,/india/stockpricequote/miscellaneous/prakashpipeslimited/PPL54268
-Praj Industries,PI17,/india/stockpricequote/engineeringheavy/prajindustries/PI17
-Prakash Ind,PI18,/india/stockpricequote/diversified/prakashindustries/PI18
-Prataap Snacks ,PS20,/india/stockpricequote/foodprocessing/prataapsnacks/PS20
-Precision Camsh,PC16,/india/stockpricequote/autoancillaries/precisioncamshafts/PC16
-Precision Wires,PWI,/india/stockpricequote/metalsnonferrous/precisionwiresindia/PWI
-Prestige Estate,PEP02,/india/stockpricequote/constructioncontractingrealestate/prestigeestatesprojects/PEP02
-Pricol,P9,/india/stockpricequote/autoancillaries/pricol/P9
-Prime Focus,PF13,/india/stockpricequote/mediaentertainment/primefocus/PF13
-Prism Johnson,PC,/india/stockpricequote/cementmajor/prismjohnson/PC
-Privi Special,HKF,/india/stockpricequote/chemicals/privispecialitychemicals/HKF
-Procter&Gamble,M12,/india/stockpricequote/pharmaceuticals/proctergamblehealth/M12
-Prozone Intu,PCS03,/india/stockpricequote/constructioncontractingrealestate/prozoneintuproperties/PCS03
-PSP Projects,PP26,/india/stockpricequote/constructioncontractingrealestate/pspprojects/PP26
-PTC India,PTC02,/india/stockpricequote/trading/ptcindia/PTC02
-PTC India Fin,PIF02,/india/stockpricequote/financetermlendinginstitutions/ptcindiafinancialservices/PIF02
-PTC Industries,PTC03,/india/stockpricequote/engineeringheavy/ptcindustries/PTC03
-PTL Enterprises,PTL06,/india/stockpricequote/tyres/ptlenterprises/PTL06
-Punjab & Sind,PSB,/india/stockpricequote/bankspublicsector/punjabsindbank/PSB
-Punjab Chemical,PCC03,/india/stockpricequote/chemicals/punjabchemicalscropprotection/PCC03
-Puravankara,PP01,/india/stockpricequote/constructioncontractingrealestate/puravankara/PP01
-PVR,PVR,/india/stockpricequote/mediaentertainment/pvr/PVR
-Quess Corp,QC,/india/stockpricequote/engineering/quesscorp/QC
-Quick Heal Tech,QHT,/india/stockpricequote/computerssoftware/quickhealtechnologies/QHT
-R Systems Intl,RSI01,/india/stockpricequote/computerssoftwaremediumsmall/rsystemsinternational/RSI01
-Radico Khaitan,RK01,/india/stockpricequote/breweriesdistilleries/radicokhaitan/RK01
-Rail Vikas,RVN,/india/stockpricequote/miscellaneous/railvikasnigam/RVN
-Rain Industries,RC12,/india/stockpricequote/cementmajor/rainindustries/RC12
-Rajesh Exports,RE07,/india/stockpricequote/diamondcuttingjewellerypreciousmetals/rajeshexports/RE07
-Rajratan Global,RGW01,/india/stockpricequote/autoancillaries/rajratanglobalwire/RGW01
-Rallis India,RI03,/india/stockpricequote/pesticidesagrochemicals/rallisindia/RI03
-Ramco Cements,MC,/india/stockpricequote/cementmajor/theramcocements/MC
-Ramco System,RS17,/india/stockpricequote/computerssoftware/ramcosystem/RS17
-Ramcoind,RI26,/india/stockpricequote/cementproductsbuildingmaterials/ramcoindustries/RI26
-RamkrishnaForge,RF17,/india/stockpricequote/castingsforgings/ramkrishnaforgings/RF17
-Ramky Infra,RI12,/india/stockpricequote/constructioncontractingcivil/ramkyinfrastructure/RI12
-Rane Brake,RBL01,/india/stockpricequote/autoancillaries/ranebrakelinings/RBL01
-Rane Holdings,RH01,/india/stockpricequote/autoancillaries/raneholdings/RH01
-Rane Madras,RM08,/india/stockpricequote/autoancillaries/ranemadras/RM08
-Rashtriya Chem,RCF01,/india/stockpricequote/fertilisers/rashtriyachemicalsfertilisers/RCF01
-Ratnamani Metal,RMT,/india/stockpricequote/steeltubespipes/ratnamanimetalstubes/RMT
-Rattan Power,IP09,/india/stockpricequote/powergenerationdistribution/rattanindiapower/IP09
-Rattanindia Ent,IIP,/india/stockpricequote/powergenerationdistribution/rattanindiaenterprises/IIP
-Raymond,R,/india/stockpricequote/textileswoollenworsted/raymond/R
-RBL Bank,RB03,/india/stockpricequote/banksprivatesector/rblbank/RB03
-REC,REC02,/india/stockpricequote/financetermlendinginstitutions/rec/REC02
-Redington,RI37,/india/stockpricequote/computershardware/redingtonindia/RI37
-Rel Capital,RC,/india/stockpricequote/financeinvestments/reliancecapital/RC
-Rel Ind Infra,RII,/india/stockpricequote/infrastructuregeneral/relianceindustrialinfrastructure/RII
-Relaxo Footwear,RF07,/india/stockpricequote/leatherproducts/relaxofootwears/RF07
-Reliance,RI,/india/stockpricequote/refineries/relianceindustries/RI
-Reliance Comm,RC13,/india/stockpricequote/telecommunicationsservice/reliancecommunications/RC13
-Reliance Infra,RI38,/india/stockpricequote/powergenerationdistribution/relianceinfrastructure/RI38
-Reliance Power,RP,/india/stockpricequote/powergenerationdistribution/reliancepower/RP
-Religare Enterp,RE09,/india/stockpricequote/financeinvestments/religareenterprises/RE09
-Renaissance,RJ,/india/stockpricequote/diamondcuttingjewellerypreciousmetals/renaissanceglobal/RJ
-Repco Home,RHF,/india/stockpricequote/financehousing/repcohomefinance/RHF
-Repro India,RI35,/india/stockpricequote/printingstationery/reproindia/RI35
-Responsive Ind,SH10,/india/stockpricequote/constructioncontractingcivil/responsiveindustries/SH10
-RHI Magnesita,OR01,/india/stockpricequote/cementproductsbuildingmaterials/rhimagnesitaindia/OR01
-Rico Auto,RA04,/india/stockpricequote/autoancillaries/ricoauto/RA04
-RITES,R02,/india/stockpricequote/diversified/rites/R02
-Rossari,RB05,/india/stockpricequote/specialitychemicals/rossaribiotech/RB05
-Rossell India,RT08,/india/stockpricequote/plantationsteacoffee/rossellindia/RT08
-RPG Life,RPG05,/india/stockpricequote/pharmaceuticals/rpglifesciences/RPG05
-RPSG VENTURES,CESCV54233,/india/stockpricequote/miscellaneous/rpsgventures/CESCV54233
-RSWM,RSW01,/india/stockpricequote/textilesspinningsyntheticblended/rswm/RSW01
-Ruchi Soya,RSI,/india/stockpricequote/edibleoilssolventextraction/ruchisoyaindustries/RSI
-Rupa and Comp,RC14,/india/stockpricequote/textileshosieryknitwear/rupacompany/RC14
-Rushil Decor,RD02,/india/stockpricequote/miscellaneous/rushildecor/RD02
-S Chand and Co,CCL,/india/stockpricequote/printingstationery/schandcompanylimited/CCL
-S H Kelkar,KC17,/india/stockpricequote/chemicals/shkelkarcompany/KC17
-S P Apparels,A,/india/stockpricequote/textilesgeneral/spapparels/A
-Sadbhav Engg,SE19,/india/stockpricequote/infrastructuregeneral/sadbhavengineering/SE19
-Sadbhav Infra,SIP,/india/stockpricequote/infrastructuregeneral/sadbhavinfrastructureprojects/SIP
-Safari Ind,SII01,/india/stockpricequote/householdpersonalproducts/safariindustriesindia/SII01
-Sagar Cement,SC27,/india/stockpricequote/cementmini/sagarcements/SC27
-Sahyadri Ind,SI86,/india/stockpricequote/cementproductsbuildingmaterials/sahyadriindustries/SI86
-SAIL,SAI,/india/stockpricequote/steellarge/steelauthorityindia/SAI
-Saint-Gobain,SGS01,/india/stockpricequote/glassglassproducts/saintgobainsekurit/SGS01
-Salasar Techno ,STE02,/india/stockpricequote/engineering/salasartechnoengineering/STE02
-Sandhar Technol,STl06,/india/stockpricequote/autoancillaries/sandhartechnologies/STl06
-Sandur Manganes,SMI,/india/stockpricequote/miningminerals/sandurmanganeseironores/SMI
-Sanghi Ind,SI04,/india/stockpricequote/cementproductsbuildingmaterials/sanghiindustries/SI04
-Sanghvi Movers,SM10,/india/stockpricequote/engineeringheavy/sanghvimovers/SM10
-Sanofi India,AP26,/india/stockpricequote/pharmaceuticals/sanofiindia/AP26
-Sarda Energy,SEM,/india/stockpricequote/steelspongeiron/sardaenergyminerals/SEM
-Saregama India,SI67,/india/stockpricequote/mediaentertainment/saregamaindia/SI67
-Sasken Tech,SCT01,/india/stockpricequote/computerssoftware/saskentechnologies/SCT01
-Sasta Sundar,MFS,/india/stockpricequote/financegeneral/sastasundarventures/MFS
-Satia Ind,SI96,/india/stockpricequote/paper/satiaindustries/SI96
-Satin Credit,SCN,/india/stockpricequote/financetermlending/satincreditcarenetwork/SCN
-Saurashtra Cem,SC41,/india/stockpricequote/cementmajor/saurashtracement/SC41
-Savita Oil Tech,SOT01,/india/stockpricequote/petrochemicals/savitaoiltechnologies/SOT01
-SBI,SBI,/india/stockpricequote/bankspublicsector/statebankindia/SBI
-SBI Life Insura,SLI03,/india/stockpricequote/diversified/sbilifeinsurancecompany/SLI03
-Schaeffler Ind,FAG,/india/stockpricequote/bearings/schaefflerindia/FAG
-Schneider Infra,SEI04,/india/stockpricequote/powergenerationdistribution/schneiderelectricinfrastructure/SEI04
-Seamec,S14,/india/stockpricequote/shipping/seamec/S14
-Sequent Scienti,PID01,/india/stockpricequote/pharmaceuticals/sequentscientific/PID01
-Seshasayee Pape,SPB,/india/stockpricequote/paper/seshasayeepaperboards/SPB
-Shakti Pumps,SPI08,/india/stockpricequote/pumps/shaktipumpsindia/SPI08
-Shalby ,SL18,/india/stockpricequote/hospitalsmedicalservices/shalby/SL18
-Shalimar Paints,SP13,/india/stockpricequote/paintsvarnishes/shalimarpaints/SP13
-Shankara Buildi,SBP02,/india/stockpricequote/miscellaneous/shankarabuildingproducts/SBP02
-Shanthi Gears,SG04,/india/stockpricequote/autoancillaries/shanthigears/SG04
-Sharda Crop,SC04,/india/stockpricequote/pesticidesagrochemicals/shardacropchem/SC04
-Sharda Motor,SMI04,/india/stockpricequote/autoancillaries/shardamotorindustries/SMI04
-SHAREINDIA,SIS09,/india/stockpricequote/diversified/shareindia/SIS09
-Sheela Foam,SF14,/india/stockpricequote/miscellaneous/sheelafoam/SF14
-SHIL,SHIL54290,/india/stockpricequote/miscellaneous/somanyhomeinnovationlimited/SHIL54290
-Shilpa,SM19,/india/stockpricequote/pharmaceuticals/shilpamedicare/SM19
-Shipping Corp,SCI,/india/stockpricequote/shipping/shippingcorporationindia/SCI
-Shiva Cement,SC50,/india/stockpricequote/cementmini/shivacement/SC50
-Shivalik Rasa,SR9,/india/stockpricequote/pesticidesagrochemicals/shivalikrasayan/SR9
-Shoppers Stop,SS51,/india/stockpricequote/retail/shoppersstop/SS51
-Shree Cements,SC12,/india/stockpricequote/cementmajor/shreecements/SC12
-Shree Digvijay,SDC,/india/stockpricequote/cementmajor/shreedigvijaycementcompany/SDC
-Shree Pushkar,SPC03,/india/stockpricequote/chemicals/shreepushkarchemicalsfertilisers/SPC03
-Shree Renuka,SRS03,/india/stockpricequote/sugar/shreerenukasugars/SRS03
-Shriram City,SCU,/india/stockpricequote/financeleasinghirepurchase/shriramcityunionfinance/SCU
-Shriram EPC,SE21,/india/stockpricequote/engineeringheavy/shriramepc/SE21
-Shriram Trans,STF,/india/stockpricequote/financeleasinghirepurchase/shriramtransportfinancecorporation/STF
-Shyam Metalics,SME05,/india/stockpricequote/ironsteel/shyammetalicsenergy/SME05
-Siemens,S,/india/stockpricequote/infrastructuregeneral/siemens/S
-SIS,SIS08,/india/stockpricequote/miscellaneous/sis/SIS08
-Siyaram Silk,SSM05,/india/stockpricequote/textilesweaving/siyaramsilkmills/SSM05
-SJVN,S11,/india/stockpricequote/powergenerationdistribution/sjvn/S11
-SKF India,SKF01,/india/stockpricequote/bearings/skfindia/SKF01
-Skipper,S21,/india/stockpricequote/engineering/skipper/S21
-SML Isuzu,SM,/india/stockpricequote/autolcvshcvs/smlisuzu/SM
-SMS Pharma,SP38,/india/stockpricequote/pharmaceuticals/smspharmaceuticals/SP38
-Snowman Logist,SL17,/india/stockpricequote/transportlogistics/snowmanlogistics/SL17
-Sobha,SD6,/india/stockpricequote/constructioncontractingrealestate/sobha/SD6
-Solar Ind,SII04,/india/stockpricequote/chemicals/solarindustriesindia/SII04
-Somany Ceramics,SC49,/india/stockpricequote/ceramicsgranite/somanyceramics/SC49
-Sona BLW,SBP04,/india/stockpricequote/autoancillariescastingsforgings/sonablwprecisionforgings/SBP04
-Sonata,SS42,/india/stockpricequote/computerssoftwaremediumsmall/sonatasoftware/SS42
-Soril Infra Res,IRS01,/india/stockpricequote/textilesreadymadeapparels/sorilinfraresources/IRS01
-South Ind Bk,SIB,/india/stockpricequote/banksprivatesector/southindianbank/SIB
-Spencer Retail,SPENC54233,/india/stockpricequote/miscellaneous/spencerretail/SPENC54233
-SpiceJet,SJ01,/india/stockpricequote/transportlogistics/spicejet/SJ01
-Sree Rayalaseem,SRH03,/india/stockpricequote/chemicals/sreerayalaseemahistrengthhyp/SRH03
-Sreeleathers,S20,/india/stockpricequote/leatherproducts/sreeleathers/S20
-SREI Infra,SRE02,/india/stockpricequote/financeleasinghirepurchase/sreiinfrastructurefinance/SRE02
-SRF,SRF,/india/stockpricequote/diversified/srf/SRF
-Srikalahasthi,LI03,/india/stockpricequote/steelpigiron/srikalahasthipipes/LI03
-Star Cement,SFC02,/india/stockpricequote/cementmajor/starcement/SFC02
-STC India,STC,/india/stockpricequote/trading/statetradingcorporationindia/STC
-Steel Exchange ,SEI02,/india/stockpricequote/steellarge/steelexchangeindia/SEI02
-Steel Str Wheel,SSW02,/india/stockpricequote/autoancillaries/steelstripswheels/SSW02
-Sterling Tools,ST,/india/stockpricequote/fasteners/sterlingtools/ST
-Sterlite Techno,ST20,/india/stockpricequote/cablestelephone/sterlitetechnologies/ST20
-Strides Pharma ,SA10,/india/stockpricequote/pharmaceuticals/stridespharmascience/SA10
-Stylam Ind,GL02,/india/stockpricequote/miscellaneous/stylamindustries/GL02
-Subex,S15,/india/stockpricequote/software/subex/S15
-Subros,S07,/india/stockpricequote/autoancillaries/subros/S07
-Sudarshan Chem,SCI08,/india/stockpricequote/dyespigments/sudarshanchemicalindustries/SCI08
-SUMITOMO,SUMIC54292,/india/stockpricequote/pesticidesagrochemicals/sumitomochemicalindialimite/SUMIC54292
-Sun Pharma,SPI,/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI
-Sun Pharma Adv,SPA,/india/stockpricequote/pharmaceuticals/sunpharmaadvancedresearchcompany/SPA
-Sun TV Network,STN01,/india/stockpricequote/mediaentertainment/suntvnetwork/STN01
-Sundaram-Clayto,SC,/india/stockpricequote/autoancillaries/sundaramclayton/SC
-Sundram,SF23,/india/stockpricequote/fasteners/sundramfasteners/SF23
-Sunflag Iron,SIS05,/india/stockpricequote/steelrolling/sunflagironsteelcompany/SIS05
-Sunteck Realty,SR05,/india/stockpricequote/constructioncontractingrealestate/sunteckrealty/SR05
-Supreme Ind,SI48,/india/stockpricequote/plastics/supremeindustries/SI48
-Supreme Petro,SP,/india/stockpricequote/petrochemicals/supremepetrochem/SP
-Surya Roshni,SR01,/india/stockpricequote/steeltubespipes/suryaroshni/SR01
-Sutlej Textiles,STI9,/india/stockpricequote/textilesgeneral/sutlejtextilesindustries/STI9
-Suven Life Sci,SLS01,/india/stockpricequote/pharmaceuticals/suvenlifesciences/SLS01
-Suzlon Energy,SE17,/india/stockpricequote/powergenerationdistribution/suzlonenergy/SE17
-SVP Global,SM18,/india/stockpricequote/textilesgeneral/svpglobalventures/SM18
-Swan Energy,SM09,/india/stockpricequote/trading/swanenergy/SM09
-Swaraj Engines,SE,/india/stockpricequote/engines/swarajengines/SE
-Swelect Energy,NPS,/india/stockpricequote/electricequipment/swelectenergysystems/NPS
-Symphony,SCS04,/india/stockpricequote/consumergoodswhitegoods/symphony/SCS04
-Syncom Formula,SF18,/india/stockpricequote/pharmaceuticals/syncomformulations/SF18
-Syngene Intl,SI10,/india/stockpricequote/miscellaneous/syngeneinternational/SI10
-TAEL,ANUP54246,/india/stockpricequote/miscellaneous/theanupengineering/ANUP54246
-Taj GVK Hotels,TGV,/india/stockpricequote/hotels/tajgvkhotelsresorts/TGV
-Tamil Newsprint,TNN,/india/stockpricequote/paper/tamilnadunewsprintpapers/TNN
-Tamilnadu Petro,TP13,/india/stockpricequote/detergents/tamilnadupetroproducts/TP13
-Tanla Platforms,TS11,/india/stockpricequote/computerssoftwaremediumsmall/tanlaplatforms/TS11
-TARC,ARG,/india/stockpricequote/constructionrealestate/tarc/ARG
-Tasty Bite,TBE,/india/stockpricequote/foodprocessing/tastybiteeatables/TBE
-Tata Chemicals,TC,/india/stockpricequote/chemicals/tatachemicals/TC
-Tata Coffee,TC14,/india/stockpricequote/plantationsteacoffee/tatacoffee/TC14
-Tata Comm,TC17,/india/stockpricequote/telecommunicationsservice/tatacommunications/TC17
-TATA Cons. Prod,TT,/india/stockpricequote/plantationsteacoffee/tataconsumerproducts/TT
-Tata Elxsi,TE,/india/stockpricequote/computerssoftware/tataelxsi/TE
-Tata Inv Corp,TIC,/india/stockpricequote/financeinvestments/tatainvestmentcorporation/TIC
-Tata Metaliks,TM,/india/stockpricequote/steelpigiron/tatametaliks/TM
-Tata Motors,TM03,/india/stockpricequote/autolcvshcvs/tatamotors/TM03
-Tata Power,TPC,/india/stockpricequote/powergenerationdistribution/tatapowercompany/TPC
-Tata Steel,TIS,/india/stockpricequote/ironsteel/tatasteel/TIS
-Tata Steel Long,TSI,/india/stockpricequote/steelspongeiron/tatasteellongproducts/TSI
-TataTeleservice,TTM01,/india/stockpricequote/telecommunicationsservice/tatateleservicesmaharashtra/TTM01
-TCNS Clothing C,TCC,/india/stockpricequote/textilesgeneral/tcnsclothingco/TCC
-TCPL Packaging,TCP01,/india/stockpricequote/printingstationery/tcplpackaging/TCP01
-TCS,TCS,/india/stockpricequote/computerssoftware/tataconsultancyservices/TCS
-TD Power System,TPS01,/india/stockpricequote/engineeringheavy/tdpowersystems/TPS01
-TeamLease Ser.,TS13,/india/stockpricequote/miscellaneous/teamleaseservices/TS13
-Tech Mahindra,TM4,/india/stockpricequote/computerssoftware/techmahindra/TM4
-Technocraft Ind,TII01,/india/stockpricequote/steelmediumsmall/technocraftindustriesindia/TII01
-Tejas Networks,TN,/india/stockpricequote/telecommunicationsequipment/tejasnetworks/TN
-Texmaco Infra,T02,/india/stockpricequote/infrastructuregeneral/texmacoinfrastructureholdings/T02
-Texmaco Rail,TRE,/india/stockpricequote/infrastructuregeneral/texmacorailengineering/TRE
-TGV Sraac,SRA,/india/stockpricequote/chemicals/tgvsraacltd/SRA
-Thangamayil,TJ,/india/stockpricequote/diamondcuttingjewellerypreciousmetals/thangamayiljewellery/TJ
-Themis Medicare,TM04,/india/stockpricequote/pharmaceuticals/themismedicare/TM04
-Thermax,T,/india/stockpricequote/infrastructuregeneral/thermax/T
-Thirumalai Chem,TC07,/india/stockpricequote/chemicals/thirumalaichemicals/TC07
-Thomas Cook,TCI,/india/stockpricequote/miscellaneous/thomascookindia/TCI
-Thyrocare Techn,TT16,/india/stockpricequote/hospitalsmedicalservices/thyrocaretechnologies/TT16
-Tilaknagar Ind,TI09,/india/stockpricequote/breweriesdistilleries/tilaknagarindustries/TI09
-Time Techno,TT03,/india/stockpricequote/packaging/timetechnoplast/TT03
-Timken,TI23,/india/stockpricequote/bearings/timkenindia/TI23
-Tinplate,TCI02,/india/stockpricequote/metalsnonferrous/tinplatecompanyindia/TCI02
-Tips Industries,TI25,/india/stockpricequote/mediaentertainment/tipsindustries/TI25
-Titagarh Wagons,TW04,/india/stockpricequote/infrastructuregeneral/titagarhwagons/TW04
-Titan Company,TI01,/india/stockpricequote/miscellaneous/titancompany/TI01
-TML-D,TATAM57000,/india/stockpricequote/automobilelcvshvcs/tatamotorsdvr/TATAM57000
-Torrent Pharma,TP06,/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06
-Torrent Power,TP14,/india/stockpricequote/powergenerationdistribution/torrentpower/TP14
-Tourism Finance,TFC,/india/stockpricequote/financetermlendinginstitutions/tourismfinancecorpindia/TFC
-Transpek,TI15,/india/stockpricequote/chemicals/transpekindustry/TI15
-Transport Corp,TCI04,/india/stockpricequote/transportlogistics/transportcorporationindia/TCI04
-Trent,T04,/india/stockpricequote/retail/trent/T04
-Tribhovandas,TBZ,/india/stockpricequote/diamondcuttingjewellerypreciousmetals/tribhovandasbhimjizaveri/TBZ
-Trident,AI01,/india/stockpricequote/textilesspinningcottonblended/trident/AI01
-Triveni Engg,TE10,/india/stockpricequote/sugar/triveniengineeringindustries/TE10
-Triveni Turbine,TT14,/india/stockpricequote/electricequipment/triveniturbine/TT14
-TTK Healthcare,TTK,/india/stockpricequote/pharmaceuticals/ttkhealthcare/TTK
-TTK Prestige,TTK02,/india/stockpricequote/domesticappliances/ttkprestige/TTK02
-TV TodayNetwork,TVT,/india/stockpricequote/mediaentertainment/tvtodaynetwork/TVT
-TV18 Broadcast,IBN,/india/stockpricequote/mediaentertainment/tv18broadcast/IBN
-TVS Motor,TVS,/india/stockpricequote/auto23wheelers/tvsmotorcompany/TVS
-TVS Srichakra,TVS03,/india/stockpricequote/tyres/tvssrichakra/TVS03
-UCAL Fuel,UFS,/india/stockpricequote/autoancillaries/ucalfuelsystems/UFS
-UCO Bank,UCO,/india/stockpricequote/bankspublicsector/ucobank/UCO
-Udaipur Cement,JKU,/india/stockpricequote/cementmajor/udaipurcementworks/JKU
-Uflex,U01,/india/stockpricequote/packaging/uflex/U01
-Ujjivan Financi,UFS01,/india/stockpricequote/financegeneral/ujjivanfinancialservices/UFS01
-Ultramarine,UP02,/india/stockpricequote/dyespigments/ultramarinepigments/UP02
-UltraTechCement,UTC01,/india/stockpricequote/cementmajor/ultratechcement/UTC01
-Unichem Labs,UL02,/india/stockpricequote/pharmaceuticals/unichemlaboratories/UL02
-Union Bank,UBI01,/india/stockpricequote/bankspublicsector/unionbankindia/UBI01
-Uniphos Ent,UE,/india/stockpricequote/trading/uniphosenterprises/UE
-United Brewerie,UB02,/india/stockpricequote/breweriesdistilleries/unitedbreweries/UB02
-United Drilling,UDT,/india/stockpricequote/engineeringindustrialequipments/uniteddrillingtools/UDT
-Universal Cable,UC,/india/stockpricequote/cablespowerothers/universalcables/UC
-UPL,UP04,/india/stockpricequote/chemicals/upl/UP04
-Urja Global,UG01,/india/stockpricequote/powergenerationdistribution/urjaglobal/UG01
-Usha Martin,UM01,/india/stockpricequote/steelmediumsmall/ushamartin/UM01
-Uttam Sugar,USM,/india/stockpricequote/sugar/uttamsugarmills/USM
-V-Guard Ind,VI02,/india/stockpricequote/electricequipment/vguardindustries/VI02
-V-Mart Retail,VR03,/india/stockpricequote/retail/vmartretail/VR03
-V2 Retail,VR02,/india/stockpricequote/retail/v2retail/VR02
-Va Tech Wabag,VTW,/india/stockpricequote/infrastructuregeneral/vatechwabag/VTW
-Vadilal Ind,VI01,/india/stockpricequote/foodprocessing/vadilalindustries/VI01
-Vaibhav Global,VG02,/india/stockpricequote/retail/vaibhavglobal/VG02
-Vakrangee,VS,/india/stockpricequote/computerssoftwaremediumsmall/vakrangee/VS
-Valiant Organic,VO03,/india/stockpricequote/chemicals/valiantorganics/VO03
-Vardhman Steels,VSS01,/india/stockpricequote/steelmediumsmall/vardhmanspecialsteels/VSS01
-Vardhman Text,VT10,/india/stockpricequote/textilesspinningcottonblended/vardhmantextiles/VT10
-Varroc Engineer,VE08,/india/stockpricequote/engineeringheavy/varrocengineering/VE08
-Varun Beverages,VB05,/india/stockpricequote/foodprocessing/varunbeverages/VB05
-Vascon Engineer,VE01,/india/stockpricequote/constructionrealestate/vasconengineers/VE01
-Vedanta,SG,/india/stockpricequote/miningminerals/vedanta/SG
-Venkys,V03,/india/stockpricequote/miscellaneous/venkys/V03
-Venus Remedies,VR01,/india/stockpricequote/pharmaceuticals/venusremedies/VR01
-Vesuvius India,VI06,/india/stockpricequote/cementproductsbuildingmaterials/vesuviusindia/VI06
-Vidhi Spec,VDM,/india/stockpricequote/dyespigments/vidhispecialtyfoodingredients/VDM
-Vikas Life,VIKAS54265,/india/stockpricequote/miscellaneous/vikaslifecare/VIKAS54265
-Vimta Labs,VL04,/india/stockpricequote/miscellaneous/vimtalabs/VL04
-Vinati Organics,VO01,/india/stockpricequote/chemicals/vinatiorganics/VO01
-Vindhya Telelin,VT03,/india/stockpricequote/cablestelephone/vindhyatelelink/VT03
-VIP Industries,VIP,/india/stockpricequote/householdpersonalproducts/vipindustries/VIP
-Visaka Ind,VI11,/india/stockpricequote/cementproductsbuildingmaterials/visakaindustries/VI11
-Vishnu Chemical,VC17,/india/stockpricequote/chemicals/vishnuchemicals/VC17
-VLS Finance,VLS,/india/stockpricequote/financeleasinghirepurchase/vlsfinance/VLS
-Vodafone Idea,IC8,/india/stockpricequote/telecommunicationsservice/vodafoneidealimited/IC8
-Voltamp Trans,VT9,/india/stockpricequote/powertransmissionequipment/voltamptransformers/VT9
-Voltas,V,/india/stockpricequote/diversified/voltas/V
-VRL Logistics,VL03,/india/stockpricequote/transportlogistics/vrllogistics/VL03
-VST,VST,/india/stockpricequote/cigarettes/vstindustries/VST
-VST Tillers,VST01,/india/stockpricequote/autotractors/vsttillerstractors/VST01
-WABCO India,WAB,/india/stockpricequote/autoancillaries/wabcoindia/WAB
-Waterbase,W04,/india/stockpricequote/aquaculture/waterbase/W04
-Welspun Corp,WGS,/india/stockpricequote/steeltubespipes/welspuncorp/WGS
-Welspun Enter,MSK,/india/stockpricequote/constructioncontractingcivil/welspunenterprises/MSK
-Welspun India,WI03,/india/stockpricequote/textilesweaving/welspunindia/WI03
-West Coast Pap,WCP,/india/stockpricequote/paper/westcoastpapermills/WCP
-Westlife Dev,DIC,/india/stockpricequote/hotels/westlifedevelopment/DIC
-Whirlpool,WI,/india/stockpricequote/consumergoodswhitegoods/whirlpoolindia/WI
-Wim Plast,WP,/india/stockpricequote/plastics/wimplast/WP
-Wipro,W,/india/stockpricequote/computerssoftware/wipro/W
-Wockhardt,W05,/india/stockpricequote/pharmaceuticals/wockhardt/W05
-Wonderla,WH01,/india/stockpricequote/miscellaneous/wonderlaholidays/WH01
-WPIL,WPI,/india/stockpricequote/pumps/wpil/WPI
-Xchanging Sol,CS20,/india/stockpricequote/computerssoftwaremediumsmall/xchangingsolutions/CS20
-Xelpmoc Design ,XDT,/india/stockpricequote/computerssoftware/xelpmocdesigntech/XDT
-Yaari Digital,IWS,/india/stockpricequote/trading/yaaridigitalintegratedservices/IWS
-YASH PAKKA LTD,YP01,/india/stockpricequote/paper/yashpakkalimited/YP01
-Yes Bank,YB,/india/stockpricequote/banksprivatesector/yesbank/YB
-Zee Entertain,ZEE,/india/stockpricequote/mediaentertainment/zeeentertainmententerprises/ZEE
-Zee Learn,ZL01,/india/stockpricequote/computerssoftwaretraining/zeelearn/ZL01
-Zee Media,ZN,/india/stockpricequote/mediaentertainment/zeemediacorporation/ZN
-Zen Tech,ZT01,/india/stockpricequote/defence/zentechnologies/ZT01
-Zensar Tech,ZT02,/india/stockpricequote/computerssoftware/zensartechnologies/ZT02
-Zuari Agro Chem,ZAC,/india/stockpricequote/fertilisers/zuariagrochemicals/ZAC
-Zydus Wellness,ZW01,/india/stockpricequote/vanaspatioils/zyduswellness/ZW01
+,Name,Symbol,NSE symbol,URL
+MILTON,3M India,MI42,MILTON,/india/stockpricequote/diversified/3mindia/MI42
+AARTIDRUGS,Aarti Drugs,AD,AARTIDRUGS,/india/stockpricequote/pharmaceuticals/aartidrugs/AD
+ABB,ABB India,ABB,ABB,/india/stockpricequote/infrastructuregeneral/abbindia/ABB
+ADANIPORTS,Adani Ports,MPS,ADANIPORTS,/india/stockpricequote/infrastructuregeneral/adaniportsspecialeconomiczone/MPS
+ATGL,Adani Total Gas,ADG01,ATGL,/india/stockpricequote/gasdistribution/adanitotalgas/ADG01
+ABFRL,Aditya Birla F,PFR,ABFRL,/india/stockpricequote/retail/adityabirlafashionretail/PFR
+AIAENG,AIA Engineering,AIE01,AIAENG,/india/stockpricequote/castingsforgings/aiaengineering/AIE01
+AJANTPHARM,Ajanta Pharma,AP22,AJANTPHARM,/india/stockpricequote/pharmaceuticals/ajantapharma/AP22
+AKZOINDIA,Akzo Nobel,ICI,AKZOINDIA,/india/stockpricequote/paintsvarnishes/akzonobelindia/ICI
+AMRUTANJAN,Alembic,A08,AMRUTANJAN,/india/stockpricequote/pharmaceuticals/alembic/A08
+APCOTEXIND,Alkem Lab,AL05,APCOTEXIND,/india/stockpricequote/pharmaceuticals/alkemlaboratories/AL05
+ALKYLAMINE,Alkyl Amines,AAC,ALKYLAMINE,/india/stockpricequote/chemicals/alkylamineschemicals/AAC
+AVSL,Alok Industries,AI54,AVSL,/india/stockpricequote/textilesweaving/alokindustries/AI54
+AMARAJABAT,Amara Raja Batt,ARB,AMARAJABAT,/india/stockpricequote/autoancillaries/amararajabatteries/ARB
+AMBER,Amber Enterpris,AEI01,AMBER,/india/stockpricequote/miscellaneous/amberenterprisesindialimited/AEI01
+APLAPOLLO,APL Apollo,BT09,APLAPOLLO,/india/stockpricequote/steeltubespipes/aplapollotubes/BT09
+APOLLOHOSP,Apollo Hospital,AHE,APOLLOHOSP,/india/stockpricequote/hospitalsmedicalservices/apollohospitalsenterprises/AHE
+APTECHT,Apollo Tyres,AT14,APTECHT,/india/stockpricequote/tyres/apollotyres/AT14
+ASHOKLEY,Ashok Leyland,AL,ASHOKLEY,/india/stockpricequote/autolcvshcvs/ashokleyland/AL
+ASHOKA,Ashoka Buildcon,AB,ASHOKA,/india/stockpricequote/constructioncontractingcivil/ashokabuildcon/AB
+ASTERDM,Aster DM Health,ADH,ASTERDM,/india/stockpricequote/diversified/asterdmhealthcareltd/ADH
+ASTRAL,Astral Ltd,APT02,ASTRAL,/india/stockpricequote/plastics/astrallimited/APT02
+ATUL,Atul,A06,ATUL,/india/stockpricequote/chemicals/atul/A06
+AUROPHARMA,Aurobindo Pharm,AP,AUROPHARMA,/india/stockpricequote/pharmaceuticals/aurobindopharma/AP
+AVANTIFEED,Avanti Feeds,AF21,AVANTIFEED,/india/stockpricequote/aquaculture/avantifeeds/AF21
+ALMONDZ,Avenue Supermar,AS19,ALMONDZ,/india/stockpricequote/retail/avenuesupermarts/AS19
+BAJAJELEC,Bajaj Electric,BE,BAJAJELEC,/india/stockpricequote/domesticappliances/bajajelectricals/BE
+BAJFINANCE,Bajaj Finance,BAF,BAJFINANCE,/india/stockpricequote/financeleasinghirepurchase/bajajfinance/BAF
+BAJAJFINSV,Bajaj Finserv,BF04,BAJAJFINSV,/india/stockpricequote/financeinvestments/bajajfinserv/BF04
+BALAMINES,Balaji Amines,BA05,BALAMINES,/india/stockpricequote/chemicals/balajiamines/BA05
+BALKRISIND,Balkrishna Ind,BI03,BALKRISIND,/india/stockpricequote/tyres/balkrishnaindustries/BI03
+BALMLAWRIE,Balmer Lawrie,BLC,BALMLAWRIE,/india/stockpricequote/diversified/balmerlawriecompany/BLC
+BALRAMCHIN,Balrampur Chini,BCM,BALRAMCHIN,/india/stockpricequote/sugar/balrampurchinimills/BCM
+BANDHANBNK,Bandhan Bank,BB09,BANDHANBNK,/india/stockpricequote/banksprivatesector/bandhanbank/BB09
+BANKBARODA,Bank of Baroda,BOB,BANKBARODA,/india/stockpricequote/bankspublicsector/bankofbaroda/BOB
+BANKINDIA,Bank of India,BOI,BANKINDIA,/india/stockpricequote/bankspublicsector/bankofindia/BOI
+MAHABANK,Bank of Mah,BM05,MAHABANK,/india/stockpricequote/bankspublicsector/bankmaharashtra/BM05
+BASF,BASF,BAS,BASF,/india/stockpricequote/chemicals/basfindia/BAS
+BATAINDIA,Bata India,BI01,BATAINDIA,/india/stockpricequote/leatherproducts/bataindia/BI01
+BERGEPAINT,Berger Paints,BPI02,BERGEPAINT,/india/stockpricequote/paintsvarnishes/bergerpaintsindia/BPI02
+BDL,Bharat Dynamics,BDL01,BDL,/india/stockpricequote/miscellaneous/bharatdynamicsltd/BDL01
+BEL,Bharat Elec,BE03,BEL,/india/stockpricequote/electricals/bharatelectronics/BE03
+BHARATRAS,Bharat Rasayan,BR01,BHARATRAS,/india/stockpricequote/pesticidesagrochemicals/bharatrasayan/BR01
+BHEL,BHEL,BHE,BHEL,/india/stockpricequote/infrastructuregeneral/bharatheavyelectricals/BHE
+BIOCON,Biocon,BL03,BIOCON,/india/stockpricequote/pharmaceuticals/biocon/BL03
+BIRLACORPN,Birla Corp,BC07,BIRLACORPN,/india/stockpricequote/cementmajor/birlacorporation/BC07
+BLUEDART,Blue Dart,BDE,BLUEDART,/india/stockpricequote/couriers/bluedartexpress/BDE
+BLUESTARCO,Blue Star,BS,BLUESTARCO,/india/stockpricequote/consumergoodswhitegoods/bluestar/BS
+BBTC,Bombay Burmah,BBT,BBTC,/india/stockpricequote/plantationsteacoffee/bombayburmahtradingcorporation/BBT
+BPCL,BPCL,BPC,BPCL,/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC
+BRIGADE,Brigade Ent,BE08,BRIGADE,/india/stockpricequote/constructioncontractingrealestate/brigadeenterprises/BE08
+BRITANNIA,Britannia,BI,BRITANNIA,/india/stockpricequote/foodprocessing/britanniaindustries/BI
+CADILAHC,Cadila Health,CHC,CADILAHC,/india/stockpricequote/pharmaceuticals/cadilahealthcare/CHC
+CANFINHOME,Can Fin Homes,CFH,CANFINHOME,/india/stockpricequote/financehousing/canfinhomes/CFH
+CANBK,Canara Bank,CB06,CANBK,/india/stockpricequote/bankspublicsector/canarabank/CB06
+CAPLIPOINT,Caplin Labs,CPL,CAPLIPOINT,/india/stockpricequote/pharmaceuticals/caplinpointlaboratories/CPL
+M&MFIN-RE,Capri Global,MMF05,M&MFIN-RE,/india/stockpricequote/financegeneral/capriglobalcapital/MMF05
+CARBORUNIV,Carborundum,CU,CARBORUNIV,/india/stockpricequote/abrasives/carborundumuniversal/CU
+CASTROLIND,Castrol,CI01,CASTROLIND,/india/stockpricequote/lubricants/castrolindia/CI01
+CCL,CCL Products,CC10,CCL,/india/stockpricequote/plantationsteacoffee/cclproductsindia/CC10
+CDSL,CDSL,CDS,CDSL,/india/stockpricequote///CDS
+CEATLTD,Ceat,C07,CEATLTD,/india/stockpricequote/tyres/ceat/C07
+CENTRALBK,Central Bank,CBO01,CENTRALBK,/india/stockpricequote/bankspublicsector/centralbankindia/CBO01
+CENTURYTEX,Century,CTI,CENTURYTEX,/india/stockpricequote/diversified/centurytextilesindustries/CTI
+CENTURYPLY,CenturyPlyboard,CP9,CENTURYPLY,/india/stockpricequote/miscellaneous/centuryplyboards/CP9
+CHEMPLASTS,Cera Sanitary,CS18,CHEMPLASTS,/india/stockpricequote/ceramicsgranite/cerasanitaryware/CS18
+CESC,CESC,CES,CESC,/india/stockpricequote/powergenerationdistribution/cesc/CES
+CROMPTON,CG Consumer,CGC01,CROMPTON,/india/stockpricequote/electricals/cromptongreavesconsumerelectrical/CGC01
+CHALET,Chalet Hotels,CH03,CHALET,/india/stockpricequote/hotels/chalethotels/CH03
+CHAMBLFERT,Chambal Fert,CFC,CHAMBLFERT,/india/stockpricequote/fertilisers/chambalfertiliserschemicals/CFC
+CHOLAHLDNG,Chola Fin Hold,TII,CHOLAHLDNG,/india/stockpricequote/miscellaneous/cholamandalamfinancialholdings/TII
+CIPLA,Cipla,C,CIPLA,/india/stockpricequote/pharmaceuticals/cipla/C
+CUB,City Union Bank,CUB,CUB,/india/stockpricequote/banksprivatesector/cityunionbank/CUB
+COFORGE,COFORGE LTD.,NII02,COFORGE,/india/stockpricequote/computerssoftware/coforgelimited/NII02
+COLPAL,Colgate,CPI,COLPAL,/india/stockpricequote/personalcare/colgatepalmoliveindia/CPI
+CONCOR,Container Corp,CCI,CONCOR,/india/stockpricequote/transportlogistics/containercorporationindia/CCI
+CADSYS,Coromandel Int,CI45,CADSYS,/india/stockpricequote/fertilisers/coromandelinternational/CI45
+CRISIL,CRISIL,CRI,CRISIL,/india/stockpricequote/miscellaneous/crisil/CRI
+CUMMINSIND,Cummins,CI02,CUMMINSIND,/india/stockpricequote/engines/cumminsindia/CI02
+CYIENT,Cyient,IE07,CYIENT,/india/stockpricequote/computerssoftware/cyient/IE07
+DABUR,Dabur India,DI,DABUR,/india/stockpricequote/personalcare/daburindia/DI
+DALBHARAT,Dalmia Bharat,OCL,DALBHARAT,/india/stockpricequote/cementmajor/dalmiabharat/OCL
+DCBBANK,DCB Bank,DCB01,DCBBANK,/india/stockpricequote/banksprivatesector/dcbbank/DCB01
+DCMSHRIRAM,DCM Shriram,DCM02,DCMSHRIRAM,/india/stockpricequote/diversified/dcmshriram/DCM02
+DEEPAKNTR,Deepak Nitrite,DN,DEEPAKNTR,/india/stockpricequote/chemicals/deepaknitrite/DN
+DISHTV,Dish TV,DTV,DISHTV,/india/stockpricequote/mediaentertainment/dishtvindia/DTV
+DCAL,Dishman Carboge,DCA,DCAL,/india/stockpricequote/miscellaneous/dishmancarbogenamcis/DCA
+DIVISLAB,Divis Labs,DL03,DIVISLAB,/india/stockpricequote/pharmaceuticals/divislaboratories/DL03
+DIXON,Dixon Technolog,DT07,DIXON,/india/stockpricequote/electricals/dixontechnologies/DT07
+DLF,DLF,D04,DLF,/india/stockpricequote/constructioncontractingrealestate/dlf/D04
+LALPATHLAB,Dr Lal PathLab,DLP01,LALPATHLAB,/india/stockpricequote/pharmaceuticals/drlalpathlabs/DLP01
+DRREDDY,Dr Reddys Labs,DRL,DRREDDY,/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL
+EICHERMOT,Eicher Motors,EM,EICHERMOT,/india/stockpricequote/autolcvshcvs/eichermotors/EM
+EIDPARRY,EID Parry,EID,EIDPARRY,/india/stockpricequote/sugar/eidparryindia/EID
+EIHOTEL,EIH,EIH,EIHOTEL,/india/stockpricequote/hotels/eih/EIH
+ELGIEQUIP,Elgi Equipments,EE01,ELGIEQUIP,/india/stockpricequote/compressors/elgiequipments/EE01
+EMCO,Endurance Techn,ET01,EMCO,/india/stockpricequote/auto23wheelers/endurancetechnologies/ET01
+ENGINERSIN,EngineersInd,EI14,ENGINERSIN,/india/stockpricequote/infrastructuregeneral/engineersindia/EI14
+EQUITAS,Equitas Holding,EH03,EQUITAS,/india/stockpricequote/financegeneral/equitasholdings/EH03
+ESCORTS,Escorts,E,ESCORTS,/india/stockpricequote/autotractors/escorts/E
+EXIDEIND,Exide Ind,EI,EXIDEIND,/india/stockpricequote/autoancillaries/exideindustries/EI
+FDC,FDC,FDC,FDC,/india/stockpricequote/pharmaceuticals/fdc/FDC
+FEDERALBNK,Federal Bank,FB,FEDERALBNK,/india/stockpricequote/banksprivatesector/federalbank/FB
+FINEORG,Fine Organics,FOI,FINEORG,/india/stockpricequote/miscellaneous/fineorganicsindustries/FOI
+FINCABLES,Finolex Cables,FC01,FINCABLES,/india/stockpricequote/cablestelephone/finolexcables/FC01
+FINPIPE,Finolex Ind,FI,FINPIPE,/india/stockpricequote/petrochemicals/finolexindustries/FI
+FSL,Firstsource Sol,FS07,FSL,/india/stockpricequote/computerssoftwaremediumsmall/firstsourcesolutions/FS07
+FORTIS,Fortis Health,FH,FORTIS,/india/stockpricequote/hospitalsmedicalservices/fortishealthcare/FH
+FCONSUMER,Future Consumer,FVI,FCONSUMER,/india/stockpricequote/foodprocessing/futureconsumer/FVI
+FRETAIL,Future Retail,FR,FRETAIL,/india/stockpricequote/retail/futureretail/FR
+GAIL,GAIL,GAI,GAIL,/india/stockpricequote/oildrillingandexploration/gailindia/GAI
+GALAXYSURF,Galaxy Surfacta,GSL06,GALAXYSURF,/india/stockpricequote/miscellaneous/galaxysurfactantsltd/GSL06
+GRSE,Garden Reach Sh,GRS01,GRSE,/india/stockpricequote/engineeringheavy/gardenreachshipbuildersengineers/GRS01
+GARFIBRES,Garware Technic,GWR,GARFIBRES,/india/stockpricequote/textilesgeneral/garwaretechnicalfibres/GWR
+APLLTD,GE Power India,AP29,APLLTD,/india/stockpricequote/powertransmissionequipment/gepowerindia/AP29
+GESHIP,GE Shipping,GES,GESHIP,/india/stockpricequote/shipping/greateasternshippingcompany/GES
+GICRE,General Insuran,GIC12,GICRE,/india/stockpricequote/diversified/generalinsurancecorporationindia/GIC12
+GRANULES,Gillette India,GI22,GRANULES,/india/stockpricequote/personalcare/gilletteindia/GI22
+GLENMARK,Glenmark,GP08,GLENMARK,/india/stockpricequote/pharmaceuticals/glenmarkpharma/GP08
+GMMPFAUDLR,GMM Pfaudler,GMM01,GMMPFAUDLR,/india/stockpricequote/engineeringheavy/gmmpfaudler/GMM01
+GMRINFRA,GMR Infra,GI27,GMRINFRA,/india/stockpricequote/infrastructuregeneral/gmrinfrastructure/GI27
+GNFC,GNFC,GNV,GNFC,/india/stockpricequote/fertilisers/gujaratnarmadavalleyfertilizerschemicals/GNV
+GODFRYPHLP,Godfrey Phillip,GPI,GODFRYPHLP,/india/stockpricequote/cigarettes/godfreyphillipsindia/GPI
+GODREJCP,Godrej Consumer,GCP,GODREJCP,/india/stockpricequote/personalcare/godrejconsumerproducts/GCP
+GALLISPAT,Godrej Ind,GI23,GALLISPAT,/india/stockpricequote/personalcare/godrejindustries/GI23
+GODREJPROP,Godrej Prop,GP11,GODREJPROP,/india/stockpricequote/constructioncontractingrealestate/godrejproperties/GP11
+GRETEX,Granules India,GI25,GRETEX,/india/stockpricequote/pharmaceuticals/granulesindia/GI25
+GRAPHITE,Graphite India,GI13,GRAPHITE,/india/stockpricequote/electrodesgraphite/graphiteindia/GI13
+GRASIM,Grasim,GI01,GRASIM,/india/stockpricequote/diversified/grasimindustries/GI01
+GRINDWELL,Grindwell Norto,GN,GRINDWELL,/india/stockpricequote/abrasives/grindwellnorton/GN
+GSFC,GSFC,GSF,GSFC,/india/stockpricequote/fertilisers/gujaratstatefertilizerschemicals/GSF
+GUJALKALI,Guj Alkali,GAC01,GUJALKALI,/india/stockpricequote/chemicals/gujaratalkalieschemicals/GAC01
+GAEL,Guj Amb Exports,GAE,GAEL,/india/stockpricequote/foodprocessing/gujaratambujaexports/GAE
+GSPL,Guj State Petro,GSP02,GSPL,/india/stockpricequote/oildrillingandexploration/gujaratstatepetronet/GSP02
+FLUOROCHEM,Gujarat Fluoro,GUJAR54281,FLUOROCHEM,/india/stockpricequote/chemicals/gujaratfluorochemicalslimited/GUJAR54281
+GUJGASLTD,Gujarat Gas,GGC,GUJGASLTD,/india/stockpricequote/oildrillingandexploration/gujaratgas/GGC
+GPPL,Gujarat Pipavav,GPP03,GPPL,/india/stockpricequote/shipping/gujaratpipavavport/GPP03
+GULFOILLUB,Gulf Oil Lubric,GOL01,GULFOILLUB,/india/stockpricequote/lubricants/gulfoillubricantsindia/GOL01
+HATSUN,Hatsun Agro,HAP,HATSUN,/india/stockpricequote/foodprocessing/hatsunagroproducts/HAP
+HAVELLS,Havells India,HI01,HAVELLS,/india/stockpricequote/electricequipment/havellsindia/HI01
+HCLTECH,HCL Tech,HCL02,HCLTECH,/india/stockpricequote/computerssoftware/hcltechnologies/HCL02
+HDFC,HDFC,HDF,HDFC,/india/stockpricequote/financehousing/housingdevelopmentfinancecorporation/HDF
+HDFCAMC,HDFC AMC,HAM02,HDFCAMC,/india/stockpricequote/financeinvestments/hdfcassetmanagementcompany/HAM02
+HDFCBANK,HDFC Bank,HDF01,HDFCBANK,/india/stockpricequote/banksprivatesector/hdfcbank/HDF01
+HDFCLIFE,HDFC Life,HSL01,HDFCLIFE,/india/stockpricequote/lifehealthinsurance/hdfclifeinsurancecompany/HSL01
+HEG,HEG,HEG,HEG,/india/stockpricequote/electrodesgraphite/heg/HEG
+HEROMOTOCO,Hero Motocorp,HHM,HEROMOTOCO,/india/stockpricequote/auto23wheelers/heromotocorp/HHM
+HFCL,HFCL,HFC,HFCL,/india/stockpricequote/telecommunicationsequipment/hfcl/HFC
+HSCL,Himadri Special,HCI01,HSCL,/india/stockpricequote/chemicals/himadrispecialitychemical/HCI01
+HINDCOPPER,Hind Copper,HC07,HINDCOPPER,/india/stockpricequote/metalsnonferrous/hindustancopper/HC07
+HINDZINC,Hind Zinc,HZ,HINDZINC,/india/stockpricequote/metalsnonferrous/hindustanzinc/HZ
+HAL,Hindustan Aeron,HAL,HAL,/india/stockpricequote/diversified/hindustanaeronauticsltd/HAL
+HPAL,Honeywell Autom,HA04,HPAL,/india/stockpricequote/telecommunicationsequipment/honeywellautomation/HA04
+HINDPETRO,HPCL,HPC,HINDPETRO,/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC
+HUDCO,HUDCO,HUD,HUDCO,/india/stockpricequote/constructioncontractingrealestate/housingurbandevelopmentcorporation/HUD
+HUHTAMAKI,Huhtamaki India,PP,HUHTAMAKI,/india/stockpricequote/packaging/huhtamakiindia/PP
+ICICIBANK,ICICI Bank,ICI02,ICICIBANK,/india/stockpricequote/banksprivatesector/icicibank/ICI02
+ICICIGI,ICICI Lombard ,ILG,ICICIGI,/india/stockpricequote/lifehealthinsurance/icicilombardgeneralinsurancecompany/ILG
+ICICIPRULI,ICICI Prudentia,IPL01,ICICIPRULI,/india/stockpricequote/financegeneral/iciciprudentiallifeinsurancecompany/IPL01
+ABCEDSWA,IDBI Bank,IDB05,ABCEDSWA,/india/stockpricequote/bankprivate/idbibank/IDB05
+IDFC,IDFC,IDF,IDFC,/india/stockpricequote/financetermlendinginstitutions/idfc/IDF
+IDFCFIRSTB,IDFC First Bank,IDF01,IDFCFIRSTB,/india/stockpricequote/bankprivate/idfcfirstbank/IDF01
+IEX,IEX,IEE,IEX,/india/stockpricequote/diversified/indianenergyexchange/IEE
+IFBIND,IFB Industries,IFB02,IFBIND,/india/stockpricequote/consumergoodswhitegoods/ifbindustries/IFB02
+IGL,IGL,IG04,IGL,/india/stockpricequote/oildrillingandexploration/indraprasthagas/IG04
+IIFL,IIFL Finance,II15,IIFL,/india/stockpricequote/financegeneral/iiflfinance/II15
+INDIACEM,India Cements,IC,INDIACEM,/india/stockpricequote/cementmajor/indiacements/IC
+IBULHSGFIN,Indiabulls Hsg,IHF01,IBULHSGFIN,/india/stockpricequote/financehousing/indiabullshousingfinance/IHF01
+IBREALEST,Indiabulls Real,IRE01,IBREALEST,/india/stockpricequote/constructioncontractingrealestate/indiabullsrealestate/IRE01
+INDIANB,Indian Bank,IB04,INDIANB,/india/stockpricequote/bankspublicsector/indianbank/IB04
+INDHOTEL,Indian Hotels,IHC,INDHOTEL,/india/stockpricequote/hotels/indianhotelscompany/IHC
+ICIL,Indo Count,ICI07,ICIL,/india/stockpricequote/textilesspinningcottonblended/indocountindustries/ICI07
+INDOCO,Indoco Remedies,IR05,INDOCO,/india/stockpricequote/pharmaceuticals/indocoremedies/IR05
+INDUSINDBK,IndusInd Bank,IIB,INDUSINDBK,/india/stockpricequote/banksprivatesector/indusindbank/IIB
+INFIBEAM,Infibeam Avenue,IIL03,INFIBEAM,/india/stockpricequote/miscellaneous/infibeamavenues/IIL03
+NAUKRI,Info Edge,IEI01,NAUKRI,/india/stockpricequote/miscellaneous/infoedgeindia/IEI01
+INFY,Infosys,IT,INFY,/india/stockpricequote/computerssoftware/infosys/IT
+INGERRAND,Ingersoll Rand,IRI01,INGERRAND,/india/stockpricequote/compressors/ingersollrandindia/IRI01
+INOXLEISUR,INOX Leisure,INO01,INOXLEISUR,/india/stockpricequote/mediaentertainment/inoxleisure/INO01
+INTELLECT,Intellect Desig,IDA,INTELLECT,/india/stockpricequote/computerssoftware/intellectdesignarena/IDA
+IOB,IOB,IOB,IOB,/india/stockpricequote/bankspublicsector/indianoverseasbank/IOB
+IOC,IOC,IOC,IOC,/india/stockpricequote/refineries/indianoilcorporation/IOC
+IPCALAB,Ipca Labs,IL,IPCALAB,/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL
+IRB,IRB Infra,IID01,IRB,/india/stockpricequote/infrastructuregeneral/irbinfrastructuredevelopers/IID01
+IRCTC,IRCTC,IRC,IRCTC,/india/stockpricequote/miscellaneous/irctcindianrailwaycateringtourismcorp/IRC
+ITC,ITC,ITC,ITC,/india/stockpricequote/cigarettes/itc/ITC
+ITI,ITI,ITI,ITI,/india/stockpricequote/telecommunicationsequipment/iti/ITI
+IIFLWAM,IWML,IIFLW54277,IIFLWAM,/india/stockpricequote/miscellaneous/iiflwealthmanagementlimited/IIFLW54277
+JKCEMENT,J. K. Cement,JKC03,JKCEMENT,/india/stockpricequote/cementmajor/jkcement/JKC03
+JAMNAAUTO,Jamna Auto,JAI,JAMNAAUTO,/india/stockpricequote/autoancillaries/jamnaautoindustries/JAI
+JSLHISAR,Jindal (Hisar),JSH,JSLHISAR,/india/stockpricequote/steellarge/jindalstainlesshisar/JSH
+JINDALSTEL,Jindal Steel,JSP,JINDALSTEL,/india/stockpricequote/steelspongeiron/jindalsteelpower/JSP
+JUBLFOOD,Jubilant Food,JF04,JUBLFOOD,/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04
+JDORGOCHEM,Just Dial,JD,JDORGOCHEM,/india/stockpricequote/miscellaneous/justdial/JD
+JYOTHYLAB,Jyothy Labs,JL,JYOTHYLAB,/india/stockpricequote/personalcare/jyothylabs/JL
+KAJARIACER,Kajaria Ceramic,KC06,KAJARIACER,/india/stockpricequote/ceramicsgranite/kajariaceramics/KC06
+KALPATPOWR,Kalpataru Power,KPT,KALPATPOWR,/india/stockpricequote/powertransmissionequipment/kalpatarupowertransmission/KPT
+KARURVYSYA,Karur Vysya,KVB,KARURVYSYA,/india/stockpricequote/banksprivatesector/karurvysyabank/KVB
+KSCL,Kaveri Seed,KSC01,KSCL,/india/stockpricequote/miscellaneous/kaveriseedcompany/KSC01
+KEI,KEI Industries,KEI,KEI,/india/stockpricequote/cablespowerothers/keiindustries/KEI
+KNRCON,KNR Construct,KC13,KNRCON,/india/stockpricequote/constructioncontractingcivil/knrconstructions/KC13
+KPITTECH,KPIT Tech,KPITT54265,KPITTECH,/india/stockpricequote/itservicesconsulting/kpittechnologies/KPITT54265
+KSB,KSB Pumps,KSB,KSB,/india/stockpricequote/pumps/ksb/KSB
+L&TFH,L&T Finance,LFH,L&TFH,/india/stockpricequote/financeinvestments/ltfinanceholdings/LFH
+LATTEYS,L&T Infotech,LI12,LATTEYS,/india/stockpricequote/computerssoftware/larsentoubroinfotech/LI12
+LTTS,L&T Technology,LTS,LTTS,/india/stockpricequote/computerssoftware/lttechnologyservices/LTS
+LAXMIMACH,Lakshmi Machine,LMW,LAXMIMACH,/india/stockpricequote/textilesmachinery/lakshmimachineworks/LMW
+LT,Larsen,LT,LT,/india/stockpricequote/infrastructuregeneral/larsentoubro/LT
+LOVABLE,Laurus Labs,LL05,LOVABLE,/india/stockpricequote/pharmaceuticals/lauruslabs/LL05
+LEMONTREE,Lemon Tree Hote,LTH,LEMONTREE,/india/stockpricequote/hotels/lemontreehotelsltd/LTH
+LICHSGFIN,LIC Housing Fin,LIC,LICHSGFIN,/india/stockpricequote/financehousing/lichousingfinance/LIC
+LINDEINDIA,Linde India,BOC,LINDEINDIA,/india/stockpricequote/chemicals/lindeindia/BOC
+TRENT,Lupin,L,TRENT,/india/stockpricequote/pharmaceuticals/lupin/L
+LUXIND,Lux Industries,LHI,LUXIND,/india/stockpricequote/textilesprocessing/luxindustries/LHI
+M&M,M&M,MM,M&M,/india/stockpricequote/autocarsjeeps/mahindramahindra/MM
+MAHSCOOTER,Mah Scooters,MS01,MAHSCOOTER,/india/stockpricequote/auto23wheelers/maharashtrascooters/MS01
+MAHSEAMLES,Mah Seamless,MS02,MAHSEAMLES,/india/stockpricequote/steeltubespipes/maharashtraseamless/MS02
+MGL,Mahanagar Gas,MG02,MGL,/india/stockpricequote/refineries/mahanagargas/MG02
+MUTHOOTFIN,Mahindra CIE,MF19,MUTHOOTFIN,/india/stockpricequote/castingsforgings/mahindracieautomotive/MF19
+MHRIL,Mahindra Holida,MHR,MHRIL,/india/stockpricequote/hotels/mahindraholidaysresortsindia/MHR
+SPICEJET,Mahindra Logist,ML04,SPICEJET,/india/stockpricequote/diversified/mahindralogistics/ML04
+MANAPPURAM,Manappuram Fin,MGF01,MANAPPURAM,/india/stockpricequote/financeleasinghirepurchase/manappuramfinance/MGF01
+MATRIMONY,Marico,M13,MATRIMONY,/india/stockpricequote/personalcare/marico/M13
+MANAKSTEEL,Maruti Suzuki,MS24,MANAKSTEEL,/india/stockpricequote/autocarsjeeps/marutisuzukiindia/MS24
+MASFIN,MAS Financial S,MFS09,MASFIN,/india/stockpricequote/financegeneral/masfinancialservices/MFS09
+MFSL,Max Financial,MI,MFSL,/india/stockpricequote/financeinvestments/maxfinancialservices/MI
+MCX,MCX India,MCE,MCX,/india/stockpricequote/miscellaneous/multicommodityexchangeindia/MCE
+BLUECOAST,Metropolis,MH06,BLUECOAST,/india/stockpricequote/hospitalsmedicalservices/metropolishealthcare/MH06
+MINDPOOL,Mindtree,MT13,MINDPOOL,/india/stockpricequote/computerssoftware/mindtree/MT13
+MIDHANI,Mishra Dhatu Ni,MDN,MIDHANI,/india/stockpricequote/miscellaneous/mishradhatunigamltd/MDN
+MMTC,MMTC Ltd,MMT,MMTC,/india/stockpricequote/trading/mmtc/MMT
+MOTILALOFS,Motilal Oswal,MOF01,MOTILALOFS,/india/stockpricequote/financegeneral/motilaloswalfinancialservices/MOF01
+MRF,MRF,MRF,MRF,/india/stockpricequote/tyres/mrf/MRF
+MRPL,MRPL,MRP,MRPL,/india/stockpricequote/refineries/mangalorerefinerypetrochemicals/MRP
+NATIONALUM,NALCO,NAC,NATIONALUM,/india/stockpricequote/aluminium/nationalaluminiumcompany/NAC
+NH,Narayana Hruda,NH,NH,/india/stockpricequote/hospitalsmedicalservices/narayanahrudayalaya/NH
+PEL,Natco Pharma,NP07,PEL,/india/stockpricequote/pharmaceuticals/natcopharma/NP07
+NCC,NCC,NCC01,NCC,/india/stockpricequote/constructioncontractingcivil/ncc/NCC01
+NESTLEIND,Nestle,NI,NESTLEIND,/india/stockpricequote/foodprocessing/nestleindia/NI
+NIACL,New India Assur,NIA,NIACL,/india/stockpricequote/miscellaneous/newindiaassurancecompany/NIA
+NFL,NFL,NF06,NFL,/india/stockpricequote/fertilisers/nationalfertilizers/NF06
+NHPC,NHPC,N07,NHPC,/india/stockpricequote/powergenerationdistribution/nhpc/N07
+NILKAMAL,Nilkamal,NP08,NILKAMAL,/india/stockpricequote/plastics/nilkamal/NP08
+NAM-INDIA,Nippon,RNL,NAM-INDIA,/india/stockpricequote/miscellaneous/nipponlifeindiaassetmanagement/RNL
+NLCINDIA,NLC India,NLC,NLCINDIA,/india/stockpricequote/powergenerationdistribution/nlcindia/NLC
+NTPC,NTPC,NTP,NTPC,/india/stockpricequote/powergenerationdistribution/ntpc/NTP
+OBEROIRLTY,Oberoi Realty,OR,OBEROIRLTY,/india/stockpricequote/constructioncontractingrealestate/oberoirealty/OR
+OIL,Oil India,OI13,OIL,/india/stockpricequote/oildrillingandexploration/oilindia/OI13
+ONGC,ONGC,ONG,ONGC,/india/stockpricequote/oildrillingandexploration/oilnaturalgascorporation/ONG
+PAGEIND,Page Industries,PI35,PAGEIND,/india/stockpricequote/textilesreadymadeapparels/pageindustries/PI35
+PCBL,PCBL,PCB01,PCBL,/india/stockpricequote/carbonblack/pcbl/PCB01
+PERSISTENT,Persistent,PS15,PERSISTENT,/india/stockpricequote/computerssoftware/persistentsystems/PS15
+PETRONET,Petronet LNG,PLN,PETRONET,/india/stockpricequote/oildrillingandexploration/petronetlng/PLN
+PFIZER,Pfizer,P,PFIZER,/india/stockpricequote/pharmaceuticals/pfizer/P
+PHOENIXLTD,Phoenix Mills,PM02,PHOENIXLTD,/india/stockpricequote/constructioncontractingrealestate/phoenixmills/PM02
+PIIND,PI Industries,PII,PIIND,/india/stockpricequote/pesticidesagrochemicals/piindustries/PII
+PIDILITIND,Pidilite Ind,PI11,PIDILITIND,/india/stockpricequote/chemicals/pidiliteindustries/PI11
+PNEUMATIC,Piramal Enter,PH05,PNEUMATIC,/india/stockpricequote/pharmaceuticals/piramalenterprises/PH05
+PNB,PNB,PNB05,PNB,/india/stockpricequote/bankspublicsector/punjabnationalbank/PNB05
+PNBHOUSING,PNB Housing Fin,PHF,PNBHOUSING,/india/stockpricequote/financehousing/pnbhousingfinance/PHF
+POLYMED,Poly Medicure,PM06,POLYMED,/india/stockpricequote/hospitalsmedicalservices/polymedicure/PM06
+POLYPLEX,Polyplex Corp,PC08,POLYPLEX,/india/stockpricequote/packaging/polyplexcorporation/PC08
+PFC,Power Finance,PFC02,PFC,/india/stockpricequote/financetermlendinginstitutions/powerfinancecorporation/PFC02
+POWERGRID,Power Grid Corp,PGC,POWERGRID,/india/stockpricequote/powergenerationdistribution/powergridcorporationindia/PGC
+PRESTIGE,Prestige Estate,PEP02,PRESTIGE,/india/stockpricequote/constructioncontractingrealestate/prestigeestatesprojects/PEP02
+PRSMJOHNSN,Prism Johnson,PC,PRSMJOHNSN,/india/stockpricequote/cementmajor/prismjohnson/PC
+AURUM,Procter&Gamble,M12,AURUM,/india/stockpricequote/pharmaceuticals/proctergamblehealth/M12
+PVR,PVR,PVR,PVR,/india/stockpricequote/mediaentertainment/pvr/PVR
+QUESS,Quess Corp,QC,QUESS,/india/stockpricequote/engineering/quesscorp/QC
+RADICO,Radico Khaitan,RK01,RADICO,/india/stockpricequote/breweriesdistilleries/radicokhaitan/RK01
+RVNL,Rail Vikas,RVN,RVNL,/india/stockpricequote/miscellaneous/railvikasnigam/RVN
+RUPA,Rain Industries,RC12,RUPA,/india/stockpricequote/cementmajor/rainindustries/RC12
+RAJESHEXPO,Rajesh Exports,RE07,RAJESHEXPO,/india/stockpricequote/diamondcuttingjewellerypreciousmetals/rajeshexports/RE07
+RALLIS,Rallis India,RI03,RALLIS,/india/stockpricequote/pesticidesagrochemicals/rallisindia/RI03
+RAMCOCEM,Ramco Cements,MC,RAMCOCEM,/india/stockpricequote/cementmajor/theramcocements/MC
+RCF,Rashtriya Chem,RCF01,RCF,/india/stockpricequote/fertilisers/rashtriyachemicalsfertilisers/RCF01
+RATNAMANI,Ratnamani Metal,RMT,RATNAMANI,/india/stockpricequote/steeltubespipes/ratnamanimetalstubes/RMT
+RAYMOND,Raymond,R,RAYMOND,/india/stockpricequote/textileswoollenworsted/raymond/R
+RECLTD,REC,REC02,RECLTD,/india/stockpricequote/financetermlendinginstitutions/rec/REC02
+REDINGTON,Redington,RI37,REDINGTON,/india/stockpricequote/computershardware/redingtonindia/RI37
+RELAXO,Relaxo Footwear,RF07,RELAXO,/india/stockpricequote/leatherproducts/relaxofootwears/RF07
+RELIANCE,Reliance,RI,RELIANCE,/india/stockpricequote/refineries/relianceindustries/RI
+RESPONIND,Responsive Ind,SH10,RESPONIND,/india/stockpricequote/constructioncontractingcivil/responsiveindustries/SH10
+RHIM,RHI Magnesita,OR01,RHIM,/india/stockpricequote/cementproductsbuildingmaterials/rhimagnesitaindia/OR01
+SAIL,SAIL,SAI,SAIL,/india/stockpricequote/steellarge/steelauthorityindia/SAI
+ADANIPOWER,Sanofi India,AP26,ADANIPOWER,/india/stockpricequote/pharmaceuticals/sanofiindia/AP26
+SBIN,SBI,SBI,SBIN,/india/stockpricequote/bankspublicsector/statebankindia/SBI
+SBILIFE,SBI Life Insura,SLI03,SBILIFE,/india/stockpricequote/diversified/sbilifeinsurancecompany/SLI03
+SCHNEIDER,Schneider Infra,SEI04,SCHNEIDER,/india/stockpricequote/powergenerationdistribution/schneiderelectricinfrastructure/SEI04
+SOTL,Sharda Crop,SC04,SOTL,/india/stockpricequote/pesticidesagrochemicals/shardacropchem/SC04
+SCI,Shipping Corp,SCI,SCI,/india/stockpricequote/shipping/shippingcorporationindia/SCI
+SHOPERSTOP,Shoppers Stop,SS51,SHOPERSTOP,/india/stockpricequote/retail/shoppersstop/SS51
+SHREECEM,Shree Cements,SC12,SHREECEM,/india/stockpricequote/cementmajor/shreecements/SC12
+SHRIRAMCIT,Shriram City,SCU,SHRIRAMCIT,/india/stockpricequote/financeleasinghirepurchase/shriramcityunionfinance/SCU
+SRTRANSFIN,Shriram Trans,STF,SRTRANSFIN,/india/stockpricequote/financeleasinghirepurchase/shriramtransportfinancecorporation/STF
+SIEMENS,Siemens,S,SIEMENS,/india/stockpricequote/infrastructuregeneral/siemens/S
+SHAREINDIA,SIS,SIS08,SHAREINDIA,/india/stockpricequote/miscellaneous/sis/SIS08
+OFSS,SJVN,S11,OFSS,/india/stockpricequote/powergenerationdistribution/sjvn/S11
+SOBHA,Sobha,SD6,SOBHA,/india/stockpricequote/constructioncontractingrealestate/sobha/SD6
+SONATSOFTW,Sonata,SS42,SONATSOFTW,/india/stockpricequote/computerssoftwaremediumsmall/sonatasoftware/SS42
+SRF,SRF,SRF,SRF,/india/stockpricequote/diversified/srf/SRF
+STARCEMENT,Star Cement,SFC02,STARCEMENT,/india/stockpricequote/cementmajor/starcement/SFC02
+STAR,Strides Pharma ,SA10,STAR,/india/stockpricequote/pharmaceuticals/stridespharmascience/SA10
+SUMICHEM,SUMITOMO,SUMIC54292,SUMICHEM,/india/stockpricequote/pesticidesagrochemicals/sumitomochemicalindialimite/SUMIC54292
+SUNPHARMA,Sun Pharma,SPI,SUNPHARMA,/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI
+SPARC,Sun Pharma Adv,SPA,SPARC,/india/stockpricequote/pharmaceuticals/sunpharmaadvancedresearchcompany/SPA
+SUNDARMFIN,Sundaram Fin,SF20,SUNDARMFIN,/india/stockpricequote/financeleasinghirepurchase/sundaramfinance/SF20
+SUNCLAYLTD,Sundaram-Clayto,SC,SUNCLAYLTD,/india/stockpricequote/autoancillaries/sundaramclayton/SC
+SUPRAJIT,Suprajit Eng,SE15,SUPRAJIT,/india/stockpricequote/autoancillaries/suprajitengineering/SE15
+SUPREMEIND,Supreme Ind,SI48,SUPREMEIND,/india/stockpricequote/plastics/supremeindustries/SI48
+SUPPETRO,Supreme Petro,SP,SUPPETRO,/india/stockpricequote/petrochemicals/supremepetrochem/SP
+SUZLON,Suzlon Energy,SE17,SUZLON,/india/stockpricequote/powergenerationdistribution/suzlonenergy/SE17
+SWANENERGY,Swan Energy,SM09,SWANENERGY,/india/stockpricequote/trading/swanenergy/SM09
+SYMPHONY,Symphony,SCS04,SYMPHONY,/india/stockpricequote/consumergoodswhitegoods/symphony/SCS04
+UPL,Syngene Intl,SI10,UPL,/india/stockpricequote/miscellaneous/syngeneinternational/SI10
+TANLA,Tanla Platforms,TS11,TANLA,/india/stockpricequote/computerssoftwaremediumsmall/tanlaplatforms/TS11
+TASTYBITE,Tasty Bite,TBE,TASTYBITE,/india/stockpricequote/foodprocessing/tastybiteeatables/TBE
+TATACHEM,Tata Chemicals,TC,TATACHEM,/india/stockpricequote/chemicals/tatachemicals/TC
+TATACONSUM,TATA Cons. Prod,TT,TATACONSUM,/india/stockpricequote/plantationsteacoffee/tataconsumerproducts/TT
+TATAINVEST,Tata Inv Corp,TIC,TATAINVEST,/india/stockpricequote/financeinvestments/tatainvestmentcorporation/TIC
+TATAPOWER,Tata Power,TPC,TATAPOWER,/india/stockpricequote/powergenerationdistribution/tatapowercompany/TPC
+TATASTEEL,Tata Steel,TIS,TATASTEEL,/india/stockpricequote/ironsteel/tatasteel/TIS
+TCNSBRANDS,TCNS Clothing C,TCC,TCNSBRANDS,/india/stockpricequote/textilesgeneral/tcnsclothingco/TCC
+TCS,TCS,TCS,TCS,/india/stockpricequote/computerssoftware/tataconsultancyservices/TCS
+TECHM,Tech Mahindra,TM4,TECHM,/india/stockpricequote/computerssoftware/techmahindra/TM4
+THERMAX,Thermax,T,THERMAX,/india/stockpricequote/infrastructuregeneral/thermax/T
+TITAN,Titan Company,TI01,TITAN,/india/stockpricequote/miscellaneous/titancompany/TI01
+TATAMTRDVR,TML-D,TATAM57000,TATAMTRDVR,/india/stockpricequote/automobilelcvshvcs/tatamotorsdvr/TATAM57000
+TORNTPHARM,Torrent Pharma,TP06,TORNTPHARM,/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06
+TRIDENT,Trident,AI01,TRIDENT,/india/stockpricequote/textilesspinningcottonblended/trident/AI01
+THYROCARE,Triveni Turbine,TT14,THYROCARE,/india/stockpricequote/electricequipment/triveniturbine/TT14
+TTKPRESTIG,TTK Prestige,TTK02,TTKPRESTIG,/india/stockpricequote/domesticappliances/ttkprestige/TTK02
+TVSMOTOR,TVS Motor,TVS,TVSMOTOR,/india/stockpricequote/auto23wheelers/tvsmotorcompany/TVS
+UCOBANK,UCO Bank,UCO,UCOBANK,/india/stockpricequote/bankspublicsector/ucobank/UCO
+UJJIVAN,Ujjivan Financi,UFS01,UJJIVAN,/india/stockpricequote/financegeneral/ujjivanfinancialservices/UFS01
+UNIONBANK,Union Bank,UBI01,UNIONBANK,/india/stockpricequote/bankspublicsector/unionbankindia/UBI01
+VAKRANGEE,V-Guard Ind,VI02,VAKRANGEE,/india/stockpricequote/electricequipment/vguardindustries/VI02
+VMART,V-Mart Retail,VR03,VMART,/india/stockpricequote/retail/vmartretail/VR03
+VAIBHAVGBL,Vaibhav Global,VG02,VAIBHAVGBL,/india/stockpricequote/retail/vaibhavglobal/VG02
+VALIANTORG,Valiant Organic,VO03,VALIANTORG,/india/stockpricequote/chemicals/valiantorganics/VO03
+VARROC,Varroc Engineer,VE08,VARROC,/india/stockpricequote/engineeringheavy/varrocengineering/VE08
+VBL,Varun Beverages,VB05,VBL,/india/stockpricequote/foodprocessing/varunbeverages/VB05
+VEDL,Vedanta,SG,VEDL,/india/stockpricequote/miningminerals/vedanta/SG
+VINATIORGA,Vinati Organics,VO01,VINATIORGA,/india/stockpricequote/chemicals/vinatiorganics/VO01
+VIPIND,VIP Industries,VIP,VIPIND,/india/stockpricequote/householdpersonalproducts/vipindustries/VIP
+IDEA,Vodafone Idea,IC8,IDEA,/india/stockpricequote/telecommunicationsservice/vodafoneidealimited/IC8
+VOLTAS,Voltas,V,VOLTAS,/india/stockpricequote/diversified/voltas/V
+VSTIND,VST,VST,VSTIND,/india/stockpricequote/cigarettes/vstindustries/VST
+WABCOINDIA,WABCO India,WAB,WABCOINDIA,/india/stockpricequote/autoancillaries/wabcoindia/WAB
+WELCORP,Welspun Corp,WGS,WELCORP,/india/stockpricequote/steeltubespipes/welspuncorp/WGS
+WELSPUNIND,Welspun India,WI03,WELSPUNIND,/india/stockpricequote/textilesweaving/welspunindia/WI03
+WESTLIFE,Westlife Dev,DIC,WESTLIFE,/india/stockpricequote/hotels/westlifedevelopment/DIC
+WHIRLPOOL,Whirlpool,WI,WHIRLPOOL,/india/stockpricequote/consumergoodswhitegoods/whirlpoolindia/WI
+WIPRO,Wipro,W,WIPRO,/india/stockpricequote/computerssoftware/wipro/W
+WOCKPHARMA,Wockhardt,W05,WOCKPHARMA,/india/stockpricequote/pharmaceuticals/wockhardt/W05
+YESBANK,Yes Bank,YB,YESBANK,/india/stockpricequote/banksprivatesector/yesbank/YB
