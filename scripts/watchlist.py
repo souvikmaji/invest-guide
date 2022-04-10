@@ -15,5 +15,8 @@ ghcl_df = ghcl.history(start=start_date, end=end_date)
 ghcl_df.ta.supertrend(period=10, multiplier=3, append = True)
 
 if ghcl_df.iloc[[-1]]['SUPERTd_7_3.0'][0] == -1:
+    print('super trend reversed. sell')
     notifier = Notifier()
-    notifier.notify('abe sale', 'madarchod')
+    notifier.notify('SELL STOCK: GHCL', 'Super trend reversed. time to sell ghcl')
+else:
+    print('hold ghcl')
