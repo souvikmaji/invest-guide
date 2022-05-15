@@ -19,4 +19,5 @@ if ghcl_df.iloc[[-1]]['SUPERTd_7_3.0'][0] == -1:
     notifier = Notifier()
     notifier.notify('SELL STOCK: GHCL', msg)
 else:
-    print(f'hold ghcl\n{ghcl_df.iloc[[-1]].to_string()}')
+    # print(f'hold ghcl\n{ghcl_df.iloc[[-1]].to_string()}')
+    pass
