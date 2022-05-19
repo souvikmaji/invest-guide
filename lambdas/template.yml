@@ -1,0 +1,50 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: 'AWS::Serverless-2016-10-31'
+Description: An AWS Serverless Specification template describing your function.
+Resources:
+  StartEC2Instances:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      Handler: start.handler
+      Runtime: python3.9
+      CodeUri: scheduler_crons/.
+      Description: 'starts ec2 instances'
+      MemorySize: 128
+      Timeout: 3
+      Role: 'arn:aws:iam::721790918739:role/SchedulerLambdaRole'
+      Tracing: Active
+      AutoPublishAlias: live
+      Layers:
+        - !Ref LibsLayer
+      Events:
+        Schedule1:
+          Type: Schedule
+          Properties:
+            Schedule: cron(30 3 ? * 2-6 *)
+  StopEC2Instances:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      Handler: stop.handler
+      Runtime: python3.9
+      CodeUri: scheduler_crons/.
+      Description: 'stops ec2 instances'
+      MemorySize: 128
+      Timeout: 3
+      Role: 'arn:aws:iam::721790918739:role/SchedulerLambdaRole'
+      Tracing: Active
+      AutoPublishAlias: live
+      Layers:
+        - !Ref LibsLayer
+      Events:
+        Schedule2:
+          Type: Schedule
+          Properties:
+            Schedule: cron(0 10 ? * 2-6 *)
+  LibsLayer:
+    Type: AWS::Serverless::LayerVersion
+    Properties:
+      LayerName: blank-python-lib
+      Description: Dependencies for the blank-python sample app.
+      ContentUri: package/.
+      CompatibleRuntimes:
+        - python3.9

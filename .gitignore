@@ -8,3 +8,5 @@ __pycache__
 **/momentum_strategy.xlsx
 venv/
 http_cache.sqlite
+package
+.env
