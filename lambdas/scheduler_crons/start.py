@@ -1,6 +1,6 @@
 import logging
 import boto3
-from util import isTodayWorkingDay, createSuccessResponse
+from util import getInstanceIds, isHoliday, createSuccessResponse
 
 region = 'ap-south-1'
 ec2 = boto3.client('ec2', region_name=region)
@@ -10,7 +10,7 @@ logger.setLevel(logging.INFO)
 
 
 def handler(event, context):
-    if isTodayWorkingDay():
+    if isHoliday():
         return createSuccessResponse("holiday")
         
     stopped = getStoppedInstances()
@@ -21,23 +21,4 @@ def handler(event, context):
         return createSuccessResponse('already running')
 
 def getStoppedInstances():
-    stopped = []
-    response = ec2.describe_instances(Filters=[
-        {
-            'Name': 'tag:trading',
-            'Values': [
-                'live',
-            ],
-        },
-        {
-            'Name': 'instance-state-name',
-            'Values': [
-               'shutting-down', 'terminated', 'stopping', 'stopped'
-            ],
-        }
-    ])
-    
-    for instance in response['InstanceStatuses']:
-            stopped.append(instance['InstanceId'])
-    
-    return stopped
+    return getInstanceIds(ec2, ['shutting-down', 'terminated', 'stopping', 'stopped'])
