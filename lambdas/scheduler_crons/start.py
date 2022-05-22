@@ -1,6 +1,4 @@
-import datetime
 import logging
-import json
 import boto3
 from util import isTodayWorkingDay, createSuccessResponse
 
@@ -24,7 +22,7 @@ def handler(event, context):
 
 def getStoppedInstances():
     stopped = []
-    response = ec2.describe_instance_status(Filters=[
+    response = ec2.describe_instances(Filters=[
         {
             'Name': 'tag:trading',
             'Values': [
