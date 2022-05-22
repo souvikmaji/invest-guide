@@ -9,12 +9,7 @@ Resources:
       ImageUri: '721790918739.dkr.ecr.ap-south-1.amazonaws.com/scheduler-lambda:latest'
       ImageConfig:
         Command: ["start.handler"]
-      # Handler: start.handler
-      # Runtime: python3.9
-      # CodeUri: scheduler_crons/.
       Description: 'starts ec2 instances'
-      # MemorySize: 128
-      # Timeout: 3
       Role: 'arn:aws:iam::721790918739:role/SchedulerLambdaRole'
       Tracing: Active
       Events:
@@ -34,12 +29,7 @@ Resources:
       ImageUri: '721790918739.dkr.ecr.ap-south-1.amazonaws.com/scheduler-lambda:latest'
       ImageConfig:
         Command: ["stop.handler"]
-      # Handler: start.handler
-      # Runtime: python3.9
-      # CodeUri: scheduler_crons/.
       Description: 'stops ec2 instances'
-      # MemorySize: 128
-      # Timeout: 3
       Role: 'arn:aws:iam::721790918739:role/SchedulerLambdaRole'
       Tracing: Active
       Events:
@@ -51,11 +41,3 @@ Resources:
       Dockerfile: Dockerfile
       DockerContext: .
       DockerTag: v1
-  # LibsLayer:
-  #   Type: AWS::Serverless::LayerVersion
-  #   Properties:
-  #     LayerName: blank-python-lib
-  #     Description: Dependencies for the blank-python sample app.
-  #     ContentUri: package/.
-  #     CompatibleRuntimes:
-  #       - python3.9

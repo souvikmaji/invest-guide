@@ -1,9 +1,4 @@
-sam package \
-  --template-file template.yml \
-  --output-template-file package.yml \
-  --s3-bucket $S3_BUCKET
-
-sam deploy \
-  --template-file package.yml \
-  --stack-name EC2SchedulerCron \
-  --capabilities CAPABILITY_IAM
+sam build --use-container --parallel --cached \
+ --build-image StartEC2Instances=721790918739.dkr.ecr.ap-south-1.amazonaws.com/scheduler-lambda:latest \
+ --build-image StopEC2Instances=721790918739.dkr.ecr.ap-south-1.amazonaws.com/scheduler-lambda:latest &&
+sam deploy 

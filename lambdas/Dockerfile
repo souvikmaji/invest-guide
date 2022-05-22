@@ -4,9 +4,8 @@ FROM public.ecr.aws/lambda/python:3.9
 COPY scheduler_crons ${LAMBDA_TASK_ROOT}
 
 # Install the function's dependencies using file requirements.txt
-# from your project folder.
-
+RUN  pip3 install wheel
 RUN  pip3 install -r requirements.txt --target "${LAMBDA_TASK_ROOT}"
 
-# Set the CMD to your handler (could also be done as a parameter override outside of the Dockerfile)
+# will get overwritten by template.yml
 CMD [ "start.handler" ]
