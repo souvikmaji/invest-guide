@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "EC2SchedulerCron"
+s3_bucket = "infra-lambda-packages-bucket"
+s3_prefix = "EC2SchedulerCron"
+region = "ap-south-1"
+confirm_changeset = false
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+image_repositories = ["StartEC2Instances=721790918739.dkr.ecr.ap-south-1.amazonaws.com/ec2schedulercrons661d1106/startec2instances5b3832cdrepo", "StopEC2Instances=721790918739.dkr.ecr.ap-south-1.amazonaws.com/ec2schedulercrons661d1106/stopec2instancese5b5e242repo"]
